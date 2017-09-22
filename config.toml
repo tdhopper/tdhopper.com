@@ -1,0 +1,69 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "My New Hugo Site"
+
+
+theme = "hugo-theme-bootstrap4-blog"
+# copyright = "Except where otherwise noted, content on this site is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/)."
+#googleAnalytics = "UA-123-45"
+#disqusShortname = "XYW"
+
+[permalinks]
+  post = "/blog/:slug/"
+  page = "/:slug/"
+
+[[menu.sidebar]]
+  name = "Link 1"
+  url = "https://example.com"
+
+[[menu.sidebar]]
+  name = "Link 2"
+  url = "https://example.org"
+
+#[[menu.navbar]]
+#  name = "Link 1"
+#  url = "https://example.org"
+
+
+
+[params]
+  # Site author
+  author = "Tim Hopper"
+
+  # Description/subtitle for homepage (can be Markdown)
+  description = "@@@"
+
+  # Format dates with Go's time formatting
+  date_format = "Mon Jan 02, 2006"
+
+  # customise the contents of the navbar at the top of the page.  The default
+  # behaviour is to list all static pages not in the posts directory. When the
+  # parameter below is set to true you will have to manually add entries to the
+  # navbar, either by adding the following menu variable to the front matter of
+  # the relevant pages
+  #   menu = "navbar"
+  # or by specifying menu entries in a similar way to the sidebar menu above.
+  #custom_navbar = true
+
+  # show sharing icons on pages/posts (default: true)
+  #sharingicons = true
+
+  # Display post summaries instead of content in list templates (default: true)
+  truncate = false
+
+  disable_sri = true
+
+  [params.sidebar]
+    # Optional about block for sidebar (can be Markdown)
+    about = "A simple Hugo theme based on the [Bootstrap v4 blog example](http://v4-alpha.getbootstrap.com/examples/blog/)."
+
+    # How many posts to show on the sidebar (Default: 5)
+    #num_recent_posts = 2
+
+  [params.social]
+    # Optional, used for attribution in Twitter cards (ideally not a person
+    # for example: nytimes, flickr, NatGeo, etc).
+    # See: https://dev.twitter.com/cards/types/summary-large-image
+    twitter = "username"
+
+# vim: ts=2 sw=2 et
