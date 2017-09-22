@@ -1,24 +1,16 @@
-baseURL = "http://example.org/"
+baseURL = "http://tdhopper.com/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+title = "tdhopper.com"
 
 
 theme = "hugo-theme-bootstrap4-blog"
-# copyright = "Except where otherwise noted, content on this site is licensed under a [Creative Commons Attribution 4.0 International license](https://creativecommons.org/licenses/by-sa/4.0/)."
-#googleAnalytics = "UA-123-45"
+copyright = "2017 Tim Hopper"
+googleAnalytics = "UA-43428740-1"
 #disqusShortname = "XYW"
 
 [permalinks]
   post = "/blog/:slug/"
   page = "/:slug/"
-
-[[menu.sidebar]]
-  name = "Link 1"
-  url = "https://example.com"
-
-[[menu.sidebar]]
-  name = "Link 2"
-  url = "https://example.org"
 
 #[[menu.navbar]]
 #  name = "Link 1"
@@ -52,13 +44,6 @@ theme = "hugo-theme-bootstrap4-blog"
   truncate = false
 
   disable_sri = true
-
-  [params.sidebar]
-    # Optional about block for sidebar (can be Markdown)
-    about = "A simple Hugo theme based on the [Bootstrap v4 blog example](http://v4-alpha.getbootstrap.com/examples/blog/)."
-
-    # How many posts to show on the sidebar (Default: 5)
-    #num_recent_posts = 2
 
   [params.social]
     # Optional, used for attribution in Twitter cards (ideally not a person
