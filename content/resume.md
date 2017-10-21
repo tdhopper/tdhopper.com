@@ -1,5 +1,5 @@
 ---
-title: Resume
+title:  Resume
 slug: resume
 description: Resume for Tim Hopper, data scientist and software developer
 ---
