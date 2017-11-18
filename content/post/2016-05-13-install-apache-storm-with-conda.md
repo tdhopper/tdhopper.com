@@ -1,7 +1,6 @@
 ---
 title: Install Apache Storm with Conda
-categories:
-  - "Today I Learned"
+category: Today I Learned
 date: 2016-05-13
 slug: install-apache-storm-with-conda
 aliases: [/blog/2016/May/13/install-apache-storm-with-conda/]

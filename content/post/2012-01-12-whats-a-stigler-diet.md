@@ -1,13 +1,13 @@
 ---
-title: What&#039;s a Stigler Diet?
+title: What's a Stigler Diet?
 date: 2012-01-12
-tags: ["featured"]
-categories:
-  - "Articles"
+tags: []
+category: Article
 slug: whats-a-stigler-diet
 aliases: [/blog/2012/Jan/12/whats-a-stigler-diet/]
 description: A look at economist George Stigler's applied optimization problem that this blog is named after.
-Thumbnail: static/ibm701.jpg
+Thumbnail: /ibm701.jpg
+featured: True
 ---
 
 In 1945, Nobel Laureate economist George Stigler posed a problem:

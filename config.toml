@@ -8,6 +8,10 @@ copyright = "2017 Tim Hopper"
 googleAnalytics = "UA-43428740-1"
 #disqusShortname = "XYW"
 
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
 [permalinks]
   post = "/blog/:slug/"
   page = "/:slug/"

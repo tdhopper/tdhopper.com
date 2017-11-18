@@ -1,7 +1,6 @@
 ---
 title: Should I Do a Ph.D.? Eric Jonas
-categories:
-  - "Interview"
+category: Interview
 date: 2013-08-27
 slug: should-i-do-a-phd-eric-jonas
 aliases: [/blog/2013/Aug/27/should-i-do-a-phd-eric-jonas/]

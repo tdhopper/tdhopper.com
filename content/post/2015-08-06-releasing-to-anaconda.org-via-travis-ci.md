@@ -1,7 +1,6 @@
 ---
 title: Releasing to Anaconda.org via Travis-CI
-categories:
-  - "Tutorials"
+category: Tutorial
 date: 2015-08-06
 slug: releasing-to-anaconda.org-via-travis-ci
 aliases: [/blog/2015/Aug/06/releasing-to-anaconda.org-via-travis-ci/]

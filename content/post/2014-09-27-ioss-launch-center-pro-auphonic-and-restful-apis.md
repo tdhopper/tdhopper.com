@@ -1,10 +1,9 @@
 ---
 title: iOS's Launch Center Pro, Auphonic, and RESTful APIs
-categories:
-  - "Articles"
+category: Article
 slug: ioss-launch-center-pro-auphonic-and-restful-apis
 aliases: [/blog/2014/Sep/27/ioss-launch-center-pro-auphonic-and-restful-apis/]
-aliases: [ioss-launch-center-pro-auphonic-and-restful-apis/]
+date: 2014-09-27
 ---
 
 Lately I've been using [Auphonic's](http://www.auphonic.com) web service for automating audio post-production and distribution. You can provide Auphonic with an audio file (via Dropbox, FTP, web upload, and more), and it will perform any number of tasks for you, including

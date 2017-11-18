@@ -1,7 +1,6 @@
 ---
 title: Should I Do a Ph.D.? Paul Harper
-categories:
-  - "Interview"
+category: Interview
 date: 2013-09-17
 slug: should-i-do-a-phd-paul-harper
 aliases: [/blog/2013/Sep/17/should-i-do-a-phd-paul-harper/]

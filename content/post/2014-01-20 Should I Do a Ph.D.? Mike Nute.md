@@ -2,10 +2,9 @@
 title: Should I Do a Ph.D.? Mike Nute
 slug: should-i-do-a-phd-mike-nute
 aliases: [/blog/2014/Jan/20/should-i-do-a-phd-mike-nute/]
-aliases: [should-i-do-a-phd-mike-nute/]
+date: 2014-01-20
 Author: Tim
-categories:
-  - "Interview"
+category: Interview
 ---
 
 __Update 12-08-2014:__ I decided to make a dedicated website to host the interviews. You can find it at [shouldigetaphd.com](http://shouldigetaphd.com/).

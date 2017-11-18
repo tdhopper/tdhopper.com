@@ -1,0 +1,111 @@
+{{ define "schema-dot-org" }}
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "Blog",
+  {{- /* Google recommends the headline be no more than 110 characters */}}
+  "headline": "{{ substr .Site.Title 0 110 }}",
+  "url" : "{{ printf "%s" .Permalink }}",
+  "author": {
+    "@type": "Person",
+    "name": "{{ .Site.Params.author }}"
+  },
+  {{- $ISO8601 := "2006-01-02T15:04:05-07:00" }}
+  {{- if not .Date.IsZero }}
+  "dateModified": "{{ .Date.Format $ISO8601 }}",
+  {{- end }}
+  {{- with .Site.Social.GooglePlus }}
+  "publisher": "{{ printf "%s" . }}",
+  {{- end }}
+  {{- /* all of the site's categories/tags, from Hugo's tpl/template_embedded.go */}}
+  "keywords": "{{ range $plural, $terms := .Site.Taxonomies }}{{ range $term, $val := $terms }}{{ printf "%s," $term }}{{ end }}{{ end }}"
+  {{- with .Site.Params.description -}}
+  ,
+  "description": "{{- . -}}"
+  {{- end }}
+}
+</script>
+{{ end }}
+
+{{ define "main" }}
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="page-header" id="featured">
+                <h3>Featured Posts</h3>
+                <div class="row">
+                    {{ range (where .Data.Pages "Params.featured" true )}}
+                    <div class="col-sm-6 col-md-4">
+                        <div class="thumbnail">
+                            <a href="{{ .Permalink }}"><img src="{{ .Params.thumbnail }}"></a>
+                            <div class="caption">
+                                <a href="{{ .Permalink }}"><h4>{{ .Title }}</h4></a>
+                                <p class="sansserif">{{ .Params.description }}</p>
+                                <div><a class="btn btn-default btn-xs" href="{{ .Permalink }}">read more</a></div>
+                            </div>
+                        </div>
+                    </div>
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="page-header" id="featured">
+                <h3>Recent Posts</h3>
+                <div class="list-group">
+                    {{ $recent_content := first 5 (where .Data.Pages "Section" "post") }}
+                    {{ range $recent_content }}
+                        <a href="{{ .Permalink }}" class="list-group-item">
+                            <h4 class="list-group-item-heading">
+                            <span class="categories-timestamp">
+                                <time datetime="{{ .Date }}">
+                                    {{ .Date.Format "2006-01-02" }}
+                                </time>
+                            </span>
+                            &nbsp;
+                            <i class="fa fa-star" aria-hidden="true"></i>
+                            &nbsp;&nbsp;
+                            {{ .Title }}
+                            </h4>
+                            <p class="list-group-item-text sansserif">{{ .Description }}</p>
+                            </a>
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-lg-12">
+            <div class="page-header" id="featured">
+                <h3>Post Archives</h3>
+                <div class="row">
+                    {{ $pages := (where .Data.Pages "Section" "post")}}
+                    {{ range $pages.GroupByParam "category" }}
+                    <div class="col-sm-12 col-md-6" id="cat:CATEGORY">
+                        <div class="panel panel-primary">
+                            <div class="panel-heading">
+                                <h4 class="panel-title">
+                                {{ .Key }}
+                                </h4>
+                            </div>
+                            <div class="panel-body">
+                                <ul class="sansserif">
+                                    {{ range (where .Pages "Section" "post") }}
+                                    <li><a href="{{ .Permalink }}">{{ .Title }}</a>
+                                        <span class="categories-timestamp"><time datetime="{{ .Date }}">{{ .Date.Format "2006-01-02" }}</time></span>
+                                    </li>
+                                    {{ end }}
+                                </ul>
+                            </div>
+                        </div>
+                    </div>
+                    {{ end }}
+                </div>
+            </div>
+        </div>
+    </div>
+
+{{ end }}
+
+{{- /* vim: set ts=2 sw=2 et: */}}

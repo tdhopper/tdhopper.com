@@ -1,7 +1,6 @@
 ---
 title: Should I Do a Ph.D.? John D. Cook
-categories:
-  - "Interview"
+category: Interview
 slug: should-i-do-a-Ph.D.-john-d-cook
 aliases: [/blog/2013/Aug/22/should-i-do-a-Ph.D.-john-d-cook/]
 date: 2013-08-22

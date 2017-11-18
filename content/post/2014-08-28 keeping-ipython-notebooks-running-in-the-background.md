@@ -1,10 +1,9 @@
 ---
 title: Keeping IPython Notebooks Running in the Background
-categories:
-  - "Tutorials"
+category: Tutorial
 slug: keeping-ipython-notebooks-running-in-the-background
 aliases: [/blog/2014/Aug/28/keeping-ipython-notebooks-running-in-the-background/]
-aliases: [keeping-ipython-notebooks-running-in-the-background/]
+date: 2014-08-28
 ---
 
 I spend a lot of time in [IPython Notebooks](http://ipython.org/notebook.html "The IPython Notebook &mdash; IPython") for work. One of the few annoyances of IPython Notebooks is that they require keeping a terminal window open to run the notebook server and kernel. I routinely launch a Notebook kernel in a directory where I keep my work related notebooks. Earlier this week, I started to wonder if there was a way for me to keep this kernel running all the time _without_ having to keep a terminal window open..

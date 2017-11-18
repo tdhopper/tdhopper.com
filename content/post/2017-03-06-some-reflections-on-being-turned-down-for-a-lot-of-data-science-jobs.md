@@ -1,7 +1,6 @@
 ---
 title: Some Reflections on Being Turned Down for a Lot of Data Science Jobs
-categories:
-  - "Articles"
+category: Article
 date: 2017-03-06
 slug: some-reflections-on-being-turned-down-for-a-lot-of-data-science-jobs
 aliases: [/blog/2017/Mar/06/some-reflections-on-being-turned-down-for-a-lot-of-data-science-jobs/]

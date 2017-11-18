@@ -1,14 +1,14 @@
 ---
 title: How I Became a Data Scientist Despite Having Been a Math Major
-categories:
-  - "Articles"
-tags: ["featured"]
+category: Article
+tags: []
 slug: how-i-became-a-data-scientist
 aliases: [/blog/2015/May/11/how-i-became-a-data-scientist/]
 date: 2015-05-11
 description: An overview of my round-about journey from studying math as an undergrad to the world of data science.
-Thumbnail: static/abacus.jpg
+Thumbnail: /abacus.jpg
 pull_quote: On a meta-level, training in mathematics forces students to think carefully and solve hard problems; these skills are valuable in many fields, including data science.
+featured: True
 ---
 
 Caution: the following post is laden with qualitative extrapolation of anecdotes and impressions. Perhaps ironically (though perhaps not), it is not a data driven approach to measuring the efficacy of math majors as data scientists. If you have a differing opinion, I would greatly appreciate you to carefully articulate it and share it with the world.

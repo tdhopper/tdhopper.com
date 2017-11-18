@@ -2,8 +2,7 @@
 title: Speeding up PyMC3 NUTS Sampler
 slug: speeding-up-pymc3-nuts-sampler
 aliases: [/blog/2016/Nov/08/speeding-up-pymc3-nuts-sampler/]
-categories:
-  - "Today I Learned"
+category: Today I Learned
 date: 2016-11-08
 ---
 

@@ -2,9 +2,8 @@
 title: Configuring Hover DNS for Github Pages
 slug: configuring-hover-dns-for-github-pages
 aliases: [/blog/2016/Mar/14/configuring-hover-dns-for-github-pages/]
-aliases: [configuring-hover-dns-for-github-pages/]
-categories:
-  - "Today I Learned"
+date: 2016-03-14
+category: Today I Learned
 ---
 
 I'm hosting this blog on [Github Pages](https://pages.github.com/), so you can find it at [tdhopper.github.io](http://tdhopper.github.io). However, I wanted to set it up to work with [til.tdhopper.com](http://til.tdhopper.com); tdhopper.com is registered with Hover.

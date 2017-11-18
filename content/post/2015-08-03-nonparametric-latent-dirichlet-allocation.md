@@ -1,7 +1,6 @@
 ---
 title: Nonparametric Latent Dirichlet Allocation
-categories:
-  - "Articles"
+category: Article
 date: 2015-08-03
 slug: nonparametric-latent-dirichlet-allocation
 aliases: [/blog/2015/Aug/03/nonparametric-latent-dirichlet-allocation/]

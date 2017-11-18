@@ -1,7 +1,6 @@
 ---
 title: Omnifocus Todo List to Pelican Website
-categories:
-  - "Articles"
+category: Article
 slug: omnifocus-todo-list-to-pelican-website
 aliases: [/blog/2013/Aug/03/omnifocus-todo-list-to-pelican-website/]
 date: 2013-08-03

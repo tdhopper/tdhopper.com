@@ -2,9 +2,8 @@
 title: Should I Do a Ph.D.? Oscar Boykin
 slug: should-i-do-a-phd-oscar-boykin
 aliases: [/blog/2014/Jan/29/should-i-do-a-phd-oscar-boykin/]
-aliases: [should-i-do-a-phd-oscar-boykin/]
-categories:
-  - "Interview"
+date: 2014-01-29
+category: Interview
 ---
 
 

@@ -2,9 +2,8 @@
 title: Sundry Links for November 1, 2014
 slug: sundry-links-for-November-01-2014
 aliases: [/blog/2014/Nov/01/sundry-links-for-November-01-2014/]
-aliases: [sundry-links-for-November-01-2014/]
-categories:
-  - "Sundry Links"
+date: 2014-11-01
+category: Sundry Link
 ---
 
 [The Absolute Minimum Every Software Developer Absolutely, Positively Must Know About Unicode and Character Sets (No Excuses!)](http://www.joelonsoftware.com/articles/Unicode.html): I guess the title says it all. By Joel Spolsky.

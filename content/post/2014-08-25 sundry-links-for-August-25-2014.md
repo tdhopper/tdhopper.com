@@ -2,9 +2,8 @@
 title: Sundry Links for August 25, 2014
 slug: sundry-links-for-August-25-2014
 aliases: [/blog/2014/Aug/25/sundry-links-for-August-25-2014/]
-aliases: [sundry-links-for-August-25-2014/]
-categories:
-  - "Sundry Links"
+date: 2014-08-25
+category: Sundry Link
 ---
 
 [How can I pretty-print JSON at the command line?](http://stackoverflow.com/questions/352098/how-can-i-pretty-print-json/1920585#1920585): I needed to pretty print some JSON at the command line earlier today. The easiest way might be to pipe it through `python -m json.tool`.

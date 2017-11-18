@@ -1,7 +1,6 @@
 ---
 title: Top Ten Favorite Photos of 2016
-categories:
-  - "Personal Updates"
+category: Personal Update
 date: 2017-01-14
 slug: top-ten-favorite-photos-of-2016
 aliases: [/blog/2017/Jan/14/top-ten-favorite-photos-of-2016/]

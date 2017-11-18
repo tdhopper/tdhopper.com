@@ -1,7 +1,6 @@
 ---
 title: Naive Bayes Meme
-categories:
-  - "Articles"
+category: Article
 date: 2017-03-14
 slug: naive-bayes
 aliases: [/blog/2017/Mar/14/naive-bayes/]

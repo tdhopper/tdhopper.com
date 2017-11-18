@@ -1,7 +1,6 @@
 ---
 title: Data Scientists Need More Automation
-categories:
-  - "Articles"
+category: Article
 date: 2016-11-15
 slug: data-scientists-need-more-automation
 aliases: [/blog/2016/Nov/15/data-scientists-need-more-automation/]

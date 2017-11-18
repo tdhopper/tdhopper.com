@@ -2,8 +2,7 @@
 title: Publishing a Static Site Generator from iOS
 slug: publishing-a-static-site-generator-from-ios
 aliases: [/blog/2015/May/09/publishing-a-static-site-generator-from-ios/]
-categories:
-  - "Articles"
+category: Article
 date: 2015-05-09
 ---
 

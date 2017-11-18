@@ -2,9 +2,8 @@
 title: Sundry Links for September 10, 2014
 slug: sundry-links-for-September-10-2014
 aliases: [/blog/2014/Sep/10/sundry-links-for-September-10-2014/]
-aliases: [sundry-links-for-September-10-2014/]
-categories:
-  - "Sundry Links"
+date: 2014-09-10
+category: Sundry Link
 ---
 
 [textract](http://textract.readthedocs.org/en/latest/): textract is a Python module and a command line tool for text extraction from many file formats. It cleverly pulls together many libraries into a consistent API.

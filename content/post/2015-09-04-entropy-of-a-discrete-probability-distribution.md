@@ -1,13 +1,13 @@
 ---
 title: Entropy of a Discrete Probability Distribution
-categories:
-  - "Articles"
-tags: ["featured"]
+category: Article
+tags: []
 date: 2015-09-04
 slug: entropy-of-a-discrete-probability-distribution
 aliases: [/blog/2015/Sep/04/entropy-of-a-discrete-probability-distribution/]
 description: A brief introduction to measuring the uncertainty of a discrete probability distribution using entropy.
-Thumbnail: static/claudeshannon.jpg
+Thumbnail: /claudeshannon.jpg
+featured: True
 ---
 
 Supposed we have a discrete set of possible events $1,\ldots, n$ that occur with probabilities $p_1, p_2, \ldots, p_n$. Claude Shannon asked the question

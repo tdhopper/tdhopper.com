@@ -2,9 +2,8 @@
 title: Auto Deploying Stigler Diet with Travis CI
 slug: auto-deploying-stigler-diet-with-travis-ci
 aliases: [/blog/2015/Mar/27/auto-deploying-stigler-diet-with-travis-ci/]
-aliases: [auto-deploying-stigler-diet-with-travis-ci/]
-categories:
-  - "Articles"
+date: 2015-03-27
+category: Article
 ---
 
 I've been using Travis CI for automated testing at work for the last year. It never occurred to me that it could be used

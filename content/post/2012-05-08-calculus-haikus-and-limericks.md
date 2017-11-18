@@ -1,7 +1,6 @@
 ---
 title: Calculus Haikus and Limericks
-categories:
-  - "Quote"
+category: Quote
 date: 2012-05-08
 Author: Tim
 slug: calculus-haikus-and-limericks

@@ -4,8 +4,7 @@ date: 2017-04-14
 slug: metawork-is-more-interesting-than-work
 aliases: [/blog/2017/Apr/14/metawork-is-more-interesting-than-work/]
 Tags:
-categories:
-  - "Articles"
+category: Article
 ---
 
 [This Software Engineering Radio interview](http://www.se-radio.net/2017/04/se-radio-episode-287-success-skills-for-architects-with-neil-ford/) with Neal Ford on Success Skills for Architects is full of gems about building effective software.

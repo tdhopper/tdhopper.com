@@ -2,8 +2,7 @@
 title: Filter by date in a Pandas MultiIndex
 slug: filter-by-date-in-a-pandas-multiindex
 aliases: [/blog/2016/Nov/08/filter-by-date-in-a-pandas-multiindex/]
-categories:
-  - "Today I Learned"
+category: Today I Learned
 date: 2016-11-08
 ---
 

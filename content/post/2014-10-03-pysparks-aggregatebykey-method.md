@@ -2,9 +2,8 @@
 title: "Pyspark's AggregateByKey Method"
 slug: pysparks-aggregatebykey-method
 aliases: [/blog/2014/Oct/03/pysparks-aggregatebykey-method/]
-aliases: [pysparks-aggregatebykey-method/]
-categories:
-  - "Articles"
+date: 2014-10-03
+category: Article
 pull_quote: I create an RDD that is a short list of characters. My functions will aggregate the functions together with concatenation. I added brackets to the two types of concatenation to help give you an idea of what `aggregateByKey` is doing.
 ---
 

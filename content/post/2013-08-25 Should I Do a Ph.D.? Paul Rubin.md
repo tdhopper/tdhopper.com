@@ -1,7 +1,6 @@
 ---
 title: Should I Do a Ph.D.? Paul Rubin
-categories:
-  - "Interview"
+category: Interview
 date: 2013-08-25
 slug: should-i-do-a-phd-paul-rubin
 aliases: [/blog/2013/Aug/25/should-i-do-a-phd-paul-rubin/]

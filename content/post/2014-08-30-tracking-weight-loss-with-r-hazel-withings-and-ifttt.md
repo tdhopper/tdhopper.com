@@ -2,9 +2,8 @@
 title: Tracking Weight Loss with R, Hazel, Withings, and IFTTT
 slug: tracking-weight-loss-with-r-hazel-withings-and-ifttt
 aliases: [/blog/2014/Aug/30/tracking-weight-loss-with-r-hazel-withings-and-ifttt/]
-aliases: [tracking-weight-loss-with-r-hazel-withings-and-ifttt/]
-categories:
-  - "Articles"
+date: 2014-08-30
+category: Article
 ---
 
 As I have [noted](http://stiglerdiet.com/blog/2013/Jul/26/noisy-series-and-body-weight/) [before](http://stiglerdiet.com//blog/2013/Nov/28/noisy-series-and-body-weight-take-2/), body weight is a noisy thing. Day to day, your weight will probably fluctuate by several pounds. If you're trying to lose weight, this noise can cause unfounded frustration and premature excitement.

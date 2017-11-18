@@ -1,10 +1,9 @@
 ---
 title: Sundry Links for August 28, 2014
-categories:
-  - "Sundry Links"
+category: Sundry Link
 slug: sundry-links-for-August-28-2014
 aliases: [/blog/2014/Aug/28/sundry-links-for-August-28-2014/]
-aliases: [sundry-links-for-August-28-2014/]
+date: 2014-08-28
 ---
 
 [How do I generate a uniform random integer partition?](http://stackoverflow.com/questions/2161406/how-do-i-generate-a-uniform-random-integer-partition): This week, I wanted to generate random partitions of integers. Unsurprisingly, stackoverflow pulled through with a Python snippet to do just that.

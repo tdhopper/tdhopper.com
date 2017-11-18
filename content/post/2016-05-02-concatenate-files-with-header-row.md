@@ -2,8 +2,7 @@
 title: Concatenate files with header row
 slug: concatenate-files-with-header-row
 aliases: [/blog/2016/May/02/concatenate-files-with-header-row/]
-categories:
-  - "Today I Learned"
+category: Today I Learned
 date: 2016-05-02
 ---
 

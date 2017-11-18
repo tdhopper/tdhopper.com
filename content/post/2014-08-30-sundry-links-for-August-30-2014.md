@@ -2,9 +2,8 @@
 title: Sundry Links for August 30, 2014
 slug: sundry-links-for-August-30-2014
 aliases: [/blog/2014/Aug/30/sundry-links-for-August-30-2014/]
-aliases: [sundry-links-for-August-30-2014/]
-categories:
-  - "Sundry Links"
+date: 2014-08-30
+category: Sundry Link
 ---
 
 [Ggplot2 To Ggvis](http://jimhester.github.io/ggplot2ToGgvis/): I'm a huge fan of ggplot2 for data visualization in R. Here's a brief tutorial for ggplot2 users to learn ggvis for generating _interactive_ plots in R using the grammar of graphics.

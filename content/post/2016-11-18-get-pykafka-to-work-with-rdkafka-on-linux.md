@@ -2,8 +2,7 @@
 title: Get Pykafka to work with rdkafka on Linux
 slug: get-pykafka-to-work-with-rdkafka-on-linux
 aliases: [/blog/2016/Nov/18/get-pykafka-to-work-with-rdkafka-on-linux/]
-categories:
-  - "Today I Learned"
+category: Today I Learned
 date: 2016-11-18
 ---
 

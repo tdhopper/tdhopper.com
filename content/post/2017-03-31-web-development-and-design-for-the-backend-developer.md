@@ -1,7 +1,6 @@
 ---
 title: Web Development and Design for the Backend Developer
-categories:
-  - "Tutorials"
+category: Tutorial
 date: 2017-03-31
 slug: web-development-and-design-for-the-backend-developer
 aliases: [/blog/2017/Mar/31/web-development-and-design-for-the-backend-developer/]

@@ -1,7 +1,6 @@
 ---
 title: Should I Do a Ph.D.? Melissa Santos
-categories:
-  - "Interview"
+category: Interview
 slug: should-i-do-a-phd-melissa-santos
 aliases: [/blog/2013/Sep/05/should-i-do-a-phd-melissa-santos/]
 date: 2013-09-05

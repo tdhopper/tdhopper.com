@@ -1,10 +1,9 @@
 ---
 title: Sundry Links for December 22, 2014
-categories:
-  - "Sundry Links"
+category: Sundry Link
 slug: sundry-links-for-December-22-2014
 aliases: [/blog/2014/Dec/22/sundry-links-for-December-22-2014/]
-aliases: [sundry-links-for-December-22-2014/]
+date: 2014-12-22
 ---
 
 [Time](http://unix4lyfe.org/time/?v=1): Programmers all hate time, timezones, etc. Here are some helpful "notes about time".

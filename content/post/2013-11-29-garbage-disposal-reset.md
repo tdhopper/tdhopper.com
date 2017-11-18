@@ -3,8 +3,7 @@ title: Garbage Disposal Reset
 slug: garbage-disposal-reset
 aliases: [/blog/2013/Nov/29/garbage-disposal-reset/]
 date: 2013-11-29
-categories:
-  - "Today I Learned"
+category: Today I Learned
 ---
 
 

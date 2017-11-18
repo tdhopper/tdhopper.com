@@ -2,8 +2,7 @@
 title: Printing Pandas Data Frames as HTML in Jupyter Notebooks
 slug: printing-pandas-data-frames-as-html-in-jupyter-notebooks
 aliases: [/blog/2016/Mar/23/printing-pandas-data-frames-as-html-in-jupyter-notebooks/]
-categories:
-  - "Today I Learned"
+category: Today I Learned
 date: 2016-03-23
 ---
 

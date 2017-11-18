@@ -4,8 +4,7 @@ date: 2012-01-20
 Author: Tim
 slug: texing-with-textmate-change-my-life
 aliases: [/blog/2012/Jan/20/texing-with-textmate-change-my-life/]
-categories:
-  - "Articles"
+category: Article
 ---
 
 I spend a lot of time writing in $\LaTeX$. Two years ago, I started typesetting of my homework assignments in it. Though I originally would do the problems on paper then type them, I now do a lot of my thinking right into $\LaTeX$ code. During my spring break in the Spring 2010 semester, I discovered [Textmate](http://macromates.com/). This rocked my $\TeX$ing world. Textmate allows live syncing with the open source PDF-viewer Skim: I can "watch" a $\LaTeX$ document so that every time I save it, the document quickly recompiles and Skim updates. The typesetting isn't entirely real-time, but a quick ⌘-S will give me an updated view of the final product. This has a side benefit. If you save a watched document that has errors it in, it won't compile and you get an annoying error message. This inspires the writing of cleaner code. I generally work with Textmate and Skim open side-by-side[^1dtextmate].

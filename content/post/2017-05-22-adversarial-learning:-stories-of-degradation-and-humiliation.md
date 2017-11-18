@@ -4,8 +4,7 @@ date: 2017-05-22
 slug: adversarial-learning:-stories-of-degradation-and-humiliation
 aliases: ["/blog/2017/May/22/adversarial-learning:-stories-of-degradation-and-humiliation/"]
 Tags:
-categories:
-  - "Personal Updates"
+category: Personal Update
 ---
 
 My friends [Andrew](http"//www.twitter.com/akm) and [Joel](http://www.twitter.com/joelgrus) were kind enough to have me back on their podcast [Adversarial Learning](http://adversariallearning.com/episode-10-stories-of-degradation-and-humiliation.html). We shared our tales of bad data science interviews. Enjoy!

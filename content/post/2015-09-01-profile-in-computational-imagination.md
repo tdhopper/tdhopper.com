@@ -1,7 +1,6 @@
 ---
 title: Profile in Computational Imagination
-categories:
-  - "Personal Updates"
+category: Personal Update
 date: 2015-09-01
 slug: profile-in-computational-imagination
 aliases: [/blog/2015/Sep/01/profile-in-computational-imagination/]

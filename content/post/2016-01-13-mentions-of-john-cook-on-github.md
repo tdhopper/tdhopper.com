@@ -1,7 +1,6 @@
 ---
 title: Mentions of John Cook on Github
-categories:
-  - "Articles"
+category: Article
 date: 2016-01-13
 slug: mentions-of-john-cook-on-github
 aliases: [/blog/2016/Jan/13/mentions-of-john-cook-on-github/]

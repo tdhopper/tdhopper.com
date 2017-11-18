@@ -1,7 +1,6 @@
 ---
 title: "Mathematica: A Love Story"
-categories:
-  - "Articles"
+category: Article
 date: 2012-02-10
 Author: Tim
 slug: mathematica-a-love-story

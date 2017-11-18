@@ -2,9 +2,8 @@
 title: Sublime Text and Markdown
 slug: sublime-text-and-markdown
 aliases: [/blog/2013/Oct/19/sublime-text-and-markdown/]
-aliases: [sublime-text-and-markdown/]
-categories:
-  - "Articles"
+date: 2013-10-19
+category: Article
 ---
 
 I have largely moved from Textmate to Sublime Text 2 for text editing. Among other reasons, Sublime Text is cross platform, and I use Windows at work and a Mac at home. I have also started writing as much as I can in [Markdown](http://daringfireball.net/projects/markdown/).

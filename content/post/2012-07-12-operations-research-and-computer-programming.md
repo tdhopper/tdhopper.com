@@ -1,7 +1,6 @@
 ---
 title: Operations Research and Computer Programming
-categories:
-  - "Articles"
+category: Article
 date: 2012-07-12
 Author: Tim
 slug: operations-research-and-computer-programming

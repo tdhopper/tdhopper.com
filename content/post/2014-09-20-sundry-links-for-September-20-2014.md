@@ -2,9 +2,8 @@
 title: Sundry Links for September 20, 2014
 slug: sundry-links-for-September-20-2014
 aliases: [/blog/2014/Sep/20/sundry-links-for-September-20-2014/]
-aliases: [sundry-links-for-September-20-2014/]
-categories:
-  - "Sundry Links"
+date: 2014-09-20
+category: Sundry Link
 ---
 
 [Open Sourcing a Python Project the Right Way](http://www.jeffknupp.com/blog/2013/08/16/open-sourcing-a-python-project-the-right-way/): Great stuff that should be taught in school: “Most Python developers have written at least one tool, script, library or framework that others would find useful. My goal in this article is to make the process of open-sourcing existing Python code as clear and painless as possible.”

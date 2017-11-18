@@ -3,8 +3,7 @@ title: Noisy Series and Body Weight
 slug: noisy-series-and-body-weight
 aliases: [/blog/2013/Jul/26/noisy-series-and-body-weight/]
 date: 2013-07-26
-categories:
-  - "Articles"
+category: Article
 Author: Tim
 ---
 

@@ -1,10 +1,9 @@
 ---
 title: Tweeting Primes
-categories:
-  - "Articles"
+category: Article
 slug: tweeting-primes
 aliases: [/blog/2013/Nov/08/tweeting-primes/]
-aliases: [tweeting-primes/]
+date: 2013-11-08
 ---
 
 I recently discovered the Twitter account [@_primes_](https://twitter.com/_primes_). Every hour, they tweet the subsequent prime number. This made me wonder two things. First, what is the largest prime that you can tweet (in base-10 encoding in 140 characters).[^mersenne] Second, how long until they get there.

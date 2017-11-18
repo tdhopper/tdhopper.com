@@ -1,7 +1,6 @@
 ---
 title: Cross Entropy and KL Divergence
-categories:
-  - "Articles"
+category: Article
 date: 2015-09-04
 slug: cross-entropy-and-kl-divergence
 aliases: [/blog/2015/Sep/04/cross-entropy-and-kl-divergence/]

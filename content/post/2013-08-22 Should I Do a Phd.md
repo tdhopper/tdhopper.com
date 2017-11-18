@@ -1,7 +1,6 @@
 ---
 title: Should I do a Ph.D.?
-categories:
-  - "Personal Updates"
+category: Personal Update
 date: 2013-08-22
 slug: should-i-do-a-phd
 aliases: [/blog/2013/Aug/22/should-i-do-a-phd/]

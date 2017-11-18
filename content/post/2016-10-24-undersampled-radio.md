@@ -1,7 +1,6 @@
 ---
 title: Undersampled Radio Interview
-categories:
-  - "Personal Updates"
+category: Personal Update
 date: 2016-10-24
 slug: undersampled-radio
 aliases: [/blog/2016/Oct/24/undersampled-radio/]

@@ -1,7 +1,6 @@
 ---
 title: New Post Function for Bash
-categories:
-  - "Today I Learned"
+category: Today I Learned
 date: 2015-07-21
 slug: new-post-function-for-bash
 aliases: [/blog/2015/Jul/21/new-post-function-for-bash/]

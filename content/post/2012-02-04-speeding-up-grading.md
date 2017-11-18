@@ -1,7 +1,6 @@
 ---
 title: Speeding up Grading!
-categories:
-  - "Tutorials"
+category: Tutorial
 date: 2012-02-04
 Author: Tim
 slug: speeding-up-grading

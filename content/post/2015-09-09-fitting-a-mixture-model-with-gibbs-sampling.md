@@ -1,7 +1,6 @@
 ---
 title: Fitting a Mixture Model with Gibbs Sampling
-categories:
-  - "Tutorials"
+category: Tutorial
 date: 2015-09-09
 slug: fitting-a-mixture-model-with-gibbs-sampling
 aliases: [/blog/2015/Sep/09/fitting-a-mixture-model-with-gibbs-sampling/]

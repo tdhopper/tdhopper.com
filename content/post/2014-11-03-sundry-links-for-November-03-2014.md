@@ -2,9 +2,8 @@
 title: Sundry Links for November 3, 2014
 slug: sundry-links-for-November-03-2014
 aliases: [/blog/2014/Nov/03/sundry-links-for-November-03-2014/]
-aliases: [sundry-links-for-November-03-2014/]
-categories:
-  - "Sundry Links"
+date: 2014-11-03
+category: Sundry Link
 ---
 
 [Public Data Sets : Amazon Web Services](https://aws.amazon.com/datasets): Amazon hosts a number of publicly datasets on AWS (including the common crawl corpus and the "Marvel Universe Social Graph").

@@ -2,8 +2,7 @@
 title: Configuring Impala Query Results with impalarc
 slug: configuring-impala-query-results-with-impalarc
 aliases: [/blog/2016/Jun/15/configuring-impala-query-results-with-impalarc/]
-categories:
-  - "Today I Learned"
+category: Today I Learned
 date: 2016-06-15
 ---
 

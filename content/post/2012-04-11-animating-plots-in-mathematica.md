@@ -1,7 +1,6 @@
 ---
 title: Animating Plots in Mathematica
-categories:
-  - "Articles"
+category: Article
 date: 2012-04-11
 Author: Tim
 slug: animating-plots-in-mathematica

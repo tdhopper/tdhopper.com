@@ -1,7 +1,6 @@
 ---
 title: Thinking at Work
-categories:
-  - "Quote"
+category: Quote
 date: 2015-07-22
 slug: thinking-at-work
 aliases: [/blog/2015/Jul/22/thinking-at-work/]

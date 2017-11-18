@@ -2,9 +2,8 @@
 title: Noisy Series and Body Weight Part 2
 slug: noisy-series-and-body-weight-take-2
 aliases: [/blog/2013/Nov/28/noisy-series-and-body-weight-take-2/]
-aliases: [noisy-series-and-body-weight-take-2/]
-categories:
-  - "Articles"
+date: 2013-11-28
+category: Article
 ---
 
 Back in July, I posted some [analysis of my attempt at weight loss](http://stiglerdiet.com/blog/2013/Jul/26/noisy-series-and-body-weight/). Now that I'm four months further down the line, I thought I'd post a follow-up.

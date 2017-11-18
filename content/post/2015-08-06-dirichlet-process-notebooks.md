@@ -1,7 +1,6 @@
 ---
 title: Dirichlet Process Notebooks
-categories:
-  - "Articles"
+category: Article
 date: 2015-08-06
 slug: dirichlet-process-notebooks
 aliases: [/blog/2015/Aug/06/dirichlet-process-notebooks/]

@@ -1,7 +1,6 @@
 ---
 title: Online Labor Markets and Static Site Generators
-categories:
-  - "Articles"
+category: Article
 slug: online-labor-markets-and-static-site-generators
 aliases: [/blog/2013/Jul/30/online-labor-markets-and-static-site-generators/]
 date: 2013-07-30

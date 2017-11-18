@@ -1,7 +1,6 @@
 ---
 title: Distribution of Number of Tables in Chinese Restaurant Process
-categories:
-  - "Articles"
+category: Article
 date: 2015-09-15
 slug: distribution-of-number-of-tables-in-chinese-restaurant-process
 aliases: [/blog/2015/Sep/15/distribution-of-number-of-tables-in-chinese-restaurant-process/]

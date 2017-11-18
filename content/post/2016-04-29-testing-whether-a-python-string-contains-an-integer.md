@@ -2,8 +2,7 @@
 title: Testing whether a Python string contains an integer
 slug: testing-whether-a-python-string-contains-an-integer
 aliases: [/blog/2016/Apr/29/testing-whether-a-python-string-contains-an-integer/]
-categories:
-  - "Today I Learned"
+category: Today I Learned
 date: 2016-04-29
 ---
 

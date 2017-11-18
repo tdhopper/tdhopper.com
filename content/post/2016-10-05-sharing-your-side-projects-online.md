@@ -1,7 +1,6 @@
 ---
 title: Sharing Your Side Projects Online
-categories:
-  - "Articles"
+category: Article
 date: 2016-10-05
 slug: sharing-your-side-projects-online
 aliases: [/blog/2016/Oct/05/sharing-your-side-projects-online/]

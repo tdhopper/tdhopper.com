@@ -1,7 +1,6 @@
 ---
 title: Sampling from a Hierarchical Dirichlet Process
-categories:
-  - "Articles"
+category: Article
 date: 2015-07-30
 slug: sampling-from-a-hierarchical-dirichlet-process
 aliases: [/blog/2015/Jul/30/sampling-from-a-hierarchical-dirichlet-process/]

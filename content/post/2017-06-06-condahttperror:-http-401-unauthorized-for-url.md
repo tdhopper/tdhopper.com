@@ -4,8 +4,7 @@ date: 2017-06-06
 slug: condahttperror:-http-401-unauthorized-for-url
 aliases: ["/blog/2017/Jun/06/condahttperror:-http-401-unauthorized-for-url/"]
 Tags:
-categories:
-  - "Articles"
+category: Article
 ---
 
 I was getting this message when I tried to install packages from [conda-forge](https://conda-forge.github.io/ "conda-forge | community driven packaging for conda") with [Conda](https://conda.io/docs/intro.html "Intro to conda &mdash; Conda documentation"):

@@ -1,7 +1,6 @@
 ---
 title: Should I Do a Ph.D.? Carl Vogel
-categories:
-  - "Interview"
+category: Interview
 slug: should-i-do-a-phd-carl-vogel
 aliases: [/blog/2013/Sep/03/should-i-do-a-phd-carl-vogel/]
 date: 2013-09-03

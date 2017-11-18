@@ -1,7 +1,6 @@
 ---
 title: Everything a Stranger Said About My Height in 2015
-categories:
-  - "Personal Updates"
+category: Personal Update
 date: 2016-01-01
 slug: everything-a-stranger-said-about-my-height-in-2015
 aliases: [/blog/2016/Jan/01/everything-a-stranger-said-about-my-height-in-2015/]

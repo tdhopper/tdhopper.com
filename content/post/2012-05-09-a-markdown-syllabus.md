@@ -1,7 +1,6 @@
 ---
 title: A Markdown Syllabus
-categories:
-  - "Articles"
+category: Article
 date: 2012-05-09
 Author: Tim
 slug: a-markdown-syllabus

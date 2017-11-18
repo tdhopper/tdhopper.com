@@ -1,10 +1,9 @@
 ---
 title: Sundry Links for March 23, 2015
-categories:
-  - "Sundry Links"
+category: Sundry Link
 slug: sundry-links-for-March-23-2015
 aliases: [/blog/2015/Mar/23/sundry-links-for-March-23-2015/]
-aliases: [sundry-links-for-March-23-2015/]
+date: 2015-03-23
 ---
 
 [Start Using Landsat on AWS](https://aws.amazon.com/blogs/aws/start-using-landsat-on-aws/): "The Landsat program has been running since 1972 and is the longest ongoing project to collect such imagery. Landsat 8 is the newest Landsat satellite and it gathers data based on visible, infrared, near-infrared, and thermal-infrared light. … You can now access over 85,000 Landsat 8  scenes" on AWS.

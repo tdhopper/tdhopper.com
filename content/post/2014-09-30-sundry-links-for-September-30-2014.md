@@ -2,9 +2,8 @@
 title: Sundry Links for September 30, 2014
 slug: sundry-links-for-September-30-2014
 aliases: [/blog/2014/Sep/30/sundry-links-for-September-30-2014/]
-aliases: [sundry-links-for-September-30-2014/]
-categories:
-  - "Sundry Links"
+date: 2014-09-30
+category: Sundry Link
 ---
 
 [Hammock](https://github.com/kadirpekel/hammock/blob/master/README.rst): A lightweight wrapper around the Python requests module to convert REST APIs into "dead simple programmatic APIs". It's a clever idea. I'll have to play around with it before I can come up with a firm opinion.

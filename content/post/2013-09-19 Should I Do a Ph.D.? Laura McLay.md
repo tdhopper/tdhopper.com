@@ -1,7 +1,6 @@
 ---
 title: Should I Do a Ph.D.? Laura McLay
-categories:
-  - "Interview"
+category: Interview
 date: 2013-09-19
 slug: should-i-do-a-phd-laura-mclay
 aliases: [/blog/2013/Sep/19/should-i-do-a-phd-laura-mclay/]

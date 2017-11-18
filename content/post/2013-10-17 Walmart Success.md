@@ -2,9 +2,8 @@
 title: Walmart's Command of Logistics
 slug: walmart's-command-of-logistics
 aliases: [/blog/2013/Oct/17/walmart's-command-of-logistics/]
-aliases: [walmart's-command-of-logistics/]
-categories:
-  - "Quote"
+date: 2013-10-17
+category: Quote
 ---
 
 Steve Sashihara, [The Optimization Edge](http://www.optimizationedge.com/):

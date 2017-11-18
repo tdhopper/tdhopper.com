@@ -1,7 +1,6 @@
 ---
 title: Teaching Students to Fail
-categories:
-  - "Articles"
+category: Article
 date: 2012-04-13
 Author: Tim
 slug: teaching-students-to-fail

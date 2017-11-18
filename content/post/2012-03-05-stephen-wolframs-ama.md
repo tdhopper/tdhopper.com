@@ -1,7 +1,6 @@
 ---
 title: Stephen Wolfram&#039;s AMA
-categories:
-  - "Articles"
+category: Article
 date: 2012-03-05
 Author: Tim
 slug: stephen-wolframs-ama

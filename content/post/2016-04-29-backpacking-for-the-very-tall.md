@@ -1,7 +1,6 @@
 ---
 title: Backpacking for the Very Tall
-categories:
-  - "Personal Updates"
+category: Personal Update
 date: 2016-04-29
 slug: backpacking-for-the-very-tall
 aliases: [/blog/2016/Apr/29/backpacking-for-the-very-tall/]

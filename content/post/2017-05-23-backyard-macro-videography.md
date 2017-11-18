@@ -3,8 +3,7 @@ title: Backyard Macro Videography
 date: 2017-05-23
 slug: backyard-macro-videography
 aliases: [/blog/2017/May/23/backyard-macro-videography/]
-categories:
-  - "Articles"
+category: Article
 ---
 
 I've been munching on sunflower seeds while working on my back patio, and some tiny ants (_Monomorium minimum_, I think) have been enjoying the leftovers.

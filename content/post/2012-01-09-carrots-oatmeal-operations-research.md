@@ -4,8 +4,7 @@ date: 2012-01-09
 Author: Tim
 slug: carrots-oatmeal-operations-research
 aliases: [/blog/2012/Jan/09/carrots-oatmeal-operations-research/]
-categories:
-  - "Articles"
+category: Article
 ---
 
 A former grad school classmate of mine lived largely off of oatmeal and carrots. Suppose he wanted to be sure to get 2000 calories/day, 60 milligrams of vitamin C per day, and no more than 40 grams of fat per day. How should he balance his intake of oatmeal and carrots while minimizing his expense at the grocery store? Suppose he eats $S$ pounds of carrots per day and $Q$ pounds of dry oatmeal. A pound of carrots contains 172 calories; a pound of oatmeal contains 1742 calories[^1what]. The total number of calories he gets in a day is $172\cdot C+1732\cdot Q.$ To be sure he gets the adequate number of calories, he needs $$172\cdot C+1732\cdot Q\geq 2000.$$ A pound of carrots contains 0.839 grams of fat, and a pound of oatmeal contains 25 grams of fat. For the total amount of fat has to be less than 40: $$0.839\cdot C+25\cdot Q\leq 40.$$ A pound of carrots contains 19 milligrams of vitamin C, and a pound of oatmeal contains 15 milligrams of vitamin C. Since the total amount of vitamin C must be at least 60: $$19\cdot C+15\cdot Q\geq 60.$$ If  you graph these three inequalities, you get the blue region shown below. Any point in the blue region represents a combination of carrots and oatmeal that would provide sufficient nutrients without giving too much fat. What we want to know is which combination is least expensive.

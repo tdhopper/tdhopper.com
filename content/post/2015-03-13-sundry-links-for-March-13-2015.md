@@ -1,10 +1,9 @@
 ---
 title: Sundry Links for March 13, 2015
-categories:
-  - "Sundry Links"
+category: Sundry Link
 slug: sundry-links-for-March-13-2015
 aliases: [/blog/2015/Mar/13/sundry-links-for-March-13-2015/]
-aliases: [sundry-links-for-March-13-2015/]
+date: 2015-03-13
 ---
 
 [Dynamically Update a Plot in IPython](http://stackoverflow.com/questions/21360361/how-to-dynamically-update-a-plot-in-a-loop-in-ipython-notebook-within-one-cell): One thing I miss about Mathematica is [Animate](http://reference.wolfram.com/language/ref/Animate.html) and [Manipulate](http://reference.wolfram.com/language/ref/Manipulate.html). IPython is slowing getting similar functionality. Here’s how to dynamically update a plot.
