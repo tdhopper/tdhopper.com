@@ -11,7 +11,7 @@
     "build:fonts": "cp node_modules/font-awesome/fonts/* static/fonts",
     "build:cookieconsent": "cp node_modules/cookieconsent/build/cookieconsent.min.css static/css && cp node_modules/cookieconsent/build/cookieconsent.min.js static/js",
     "build:generatesri": "node build/sri.js > data/sri.toml",
-    "build": "npm run build:css && npm run build:fonts && npm run build:cookieconsent && npm run build:generatesri && npm run clean",
+    "build": "npm run build:css && npm run build:fonts && npm run build:cookieconsent && npm run clean",
     "clean": "rm static/css/style.css.tmp"
   },
   "keywords": "hugo",
