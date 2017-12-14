@@ -51,12 +51,15 @@
       </div>
     </div>
 
-    <header class="blog-header">
-      <div class="container">
-        <h1 class="blog-title"><a href="{{ .Site.BaseURL }}" rel="home">{{ .Site.Title | safeHTML }}</a></h1>
-        {{ if .Site.Params.description }}<p class="lead blog-description">{{ .Site.Params.description | markdownify }}</p>{{ end }}
+
+    <div id="banner" class="mb-4">
+      <div class="container" >
+        <div class="copy">
+          <h1 class="display-3">Tim Hopper</h1>
+          <p class="intro">Data Science. Python. Software Engineering. Math Jokes.</p>
+        </div>
       </div>
-    </header>
+    </div>
 
     <div class="container">
       <div class="row">
