@@ -28,33 +28,6 @@
 {{ end }}
 
 {{ define "main" }}
-
-    <div class="row">
-        <div class="col-lg-12">
-            <div class="page-header" id="featured">
-                <h3>Recent Posts</h3>
-                <div class="list-group">
-                    {{ $recent_content := first 5 (where .Data.Pages "Section" "post") }}
-                    {{ range $recent_content }}
-                        <a href="{{ .Permalink }}" class="list-group-item">
-                            <h4 class="list-group-item-heading">
-                            <span class="categories-timestamp">
-                                <time datetime="{{ .Date }}">
-                                    {{ .Date.Format "2006-01-02" }}
-                                </time>
-                            </span>
-                            &nbsp;
-                            <i class="fa fa-star" aria-hidden="true"></i>
-                            &nbsp;&nbsp;
-                            {{ .Title }}
-                            </h4>
-                            <p class="list-group-item-text sansserif">{{ .Description }}</p>
-                            </a>
-                    {{ end }}
-                </div>
-            </div>
-        </div>
-    </div>
     <div class="row">
         <div class="col-lg-12">
             <div class="page-header" id="featured">

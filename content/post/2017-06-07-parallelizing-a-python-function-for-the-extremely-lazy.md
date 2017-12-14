@@ -5,6 +5,7 @@ slug: parallelizing-a-python-function-for-the-extremely-lazy
 aliases: [/blog/2017/Jun/07/parallelizing-a-python-function-for-the-extremely-lazy/]
 categories:
   - Articles
+Description: How to use a simple Python CLI and GNU Parallel to quickly run a Python process on multiple cores.
 ---
 
 Do you ever want to be able to run a Python function in parallel on a set of inputs? Have you ever gotten frustrated with the GIL, the multiprocessing library, or joblib?
