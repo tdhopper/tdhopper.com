@@ -28,36 +28,6 @@
 {{ end }}
 
 {{ define "main" }}
-    <div class="row">
-        <div class="col-lg-12">
-            <div class="page-header" id="featured">
-                <h3>Post Archives</h3>
-                <div class="row">
-                    {{ $pages := (where .Data.Pages "Section" "post")}}
-                    {{ range $pages.GroupByParam "category" }}
-                    <div class="col-sm-12 col-md-6" id="cat:CATEGORY">
-                        <div class="panel panel-primary">
-                            <div class="panel-heading">
-                                <h4 class="panel-title">
-                                {{ .Key }}
-                                </h4>
-                            </div>
-                            <div class="panel-body">
-                                <ul class="sansserif">
-                                    {{ range (where .Pages "Section" "post") }}
-                                    <li><a href="{{ .Permalink }}">{{ .Title }}</a>
-                                        <span class="categories-timestamp"><time datetime="{{ .Date }}">{{ .Date.Format "2006-01-02" }}</time></span>
-                                    </li>
-                                    {{ end }}
-                                </ul>
-                            </div>
-                        </div>
-                    </div>
-                    {{ end }}
-                </div>
-            </div>
-        </div>
-    </div>
 
 {{ end }}
 
