@@ -27,6 +27,13 @@
 </script>
 {{ end }}
 
+{{ define "index_main" }}
+    {{ partial "banner.html" . }}
+    {{ partial "featured.html" . }}
+    {{ partial "recent.html" . }}
+    {{ partial "archives.html" . }}
+{{ end }}
+
 {{ define "main" }}
 
 {{ end }}

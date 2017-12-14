@@ -27,4 +27,13 @@
 .#{$fa-css-prefix}-twitter:before { content: $fa-var-twitter; }
 .#{$fa-css-prefix}-twitter:before { content: $fa-var-twitter; }
 .#{$fa-css-prefix}-star:before { content: $fa-var-star; }
+.#{$fa-css-prefix}-arrow-up:before { content: $fa-var-arrow-up; }
+.#{$fa-css-prefix}-envelope:before { content: $fa-var-envelope; }
+.#{$fa-css-prefix}-external-link:before { content: $fa-var-external-link; }
+.#{$fa-css-prefix}-flickr:before { content: $fa-var-flickr; }
+.#{$fa-css-prefix}-github-square:before { content: $fa-var-github-square; }
+.#{$fa-css-prefix}-instagram:before { content: $fa-var-instagram; }
+.#{$fa-css-prefix}-linkedin-square:before { content: $fa-var-linkedin-square; }
+.#{$fa-css-prefix}-phone-square:before { content: $fa-var-phone-square; }
+.#{$fa-css-prefix}-twitter-square:before { content: $fa-var-twitter-square; }
 @import "node_modules/font-awesome/scss/screen-reader";
