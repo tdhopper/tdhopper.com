@@ -28,27 +28,7 @@
 {{ end }}
 
 {{ define "main" }}
-    <div class="row">
-        <div class="col-lg-12">
-            <div class="page-header" id="featured">
-                <h3>Featured Posts</h3>
-                <div class="row">
-                    {{ range (where .Data.Pages "Params.featured" true )}}
-                    <div class="col-sm-6 col-md-4">
-                        <div class="thumbnail">
-                            <a href="{{ .Permalink }}"><img src="{{ .Params.thumbnail }}"></a>
-                            <div class="caption">
-                                <a href="{{ .Permalink }}"><h4>{{ .Title }}</h4></a>
-                                <p class="sansserif">{{ .Params.description }}</p>
-                                <div><a class="btn btn-default btn-xs" href="{{ .Permalink }}">read more</a></div>
-                            </div>
-                        </div>
-                    </div>
-                    {{ end }}
-                </div>
-            </div>
-        </div>
-    </div>
+
     <div class="row">
         <div class="col-lg-12">
             <div class="page-header" id="featured">
