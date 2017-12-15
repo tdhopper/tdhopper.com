@@ -1,3 +1,4 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway:400,700");
 /*
  * From the Bootstrap 4.0 blog example
  * See: https://getbootstrap.com/docs/4.0/examples/blog/blog.css
@@ -7,6 +8,12 @@
  * Globals
  */
 
+
+body {
+    padding-top: 68px;
+}
+
+
 @media (min-width: 48em) {
   html {
     font-size: 18px;
@@ -15,6 +22,18 @@
 
 body {
   color: #555;
+}
+
+.card-columns {
+  @include media-breakpoint-only(sm) {
+    column-count: 1;
+  }
+  @include media-breakpoint-only(lg) {
+    column-count: 2;
+  }
+  @include media-breakpoint-only(xl) {
+    column-count: 2;
+  }
 }
 
 h1, .h1,
@@ -47,40 +66,28 @@ h6, .h6 {
  */
 
 .blog-masthead {
-  background-color: #428bca;
-  -webkit-box-shadow: inset 0 -.1rem .25rem rgba(0,0,0,.1);
-          box-shadow: inset 0 -.1rem .25rem rgba(0,0,0,.1);
+  font-family: "Raleway","Helvetica Neue",Helvetica,Arial,sans-serif;
+  background-color: white;
 }
 
 /* Nav links */
 .nav-link {
   position: relative;
-  padding: 1rem;
-  font-weight: 500;
-  color: #cdddeb;
-}
-.nav-link:hover,
-.nav-link:focus {
-  color: #fff;
-  background-color: transparent;
+  padding: .35rem;
+  margin: .25rem;
+  color: theme-color('primary');
+  border:1px solid white;
+  border-radius: 4px;
 }
 
-/* Active state gets a caret at the bottom */
-.nav-link.active {
-  color: #fff;
+.nav-link:hover,
+.nav-link:focus {
+  background-color: transparent;
+  border:1px solid #dddddd;
 }
-.nav-link.active:after {
-  position: absolute;
-  bottom: 0;
-  left: 50%;
-  width: 0;
-  height: 0;
-  margin-left: -.3rem;
-  vertical-align: middle;
-  content: "";
-  border-right: .3rem solid transparent;
-  border-bottom: .3rem solid;
-  border-left: .3rem solid transparent;
+
+.nav-link.active {
+  color: theme-color('primary');
 }
 
 

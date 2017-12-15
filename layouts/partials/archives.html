@@ -2,30 +2,27 @@
 <div class="container mb-4" id="archives">
 <h3>Post Archives</h3>
   <hr>
-    <div class="page-header" id="featured">
-        <div class="row">
-            <div class="col d-flex flex-wrap" id="cat:CATEGORY">
-            {{ $pages := (where .Data.Pages "Section" "post")}}
-            {{ range $pages.GroupByParam "category" }}
-                <div class="card w-50">
-                  <h4 class="card-header">
-                    {{ .Key }}
-                  </h4>
-                  <div class="card-body">
-                    <div class="card-text">
-                        <ul class="sansserif">
-                            {{ range (where .Pages "Section" "post") }}
-                            <li><a href="{{ .Permalink }}">{{ .Title }}</a>
-                                <span class="categories-timestamp"><time datetime="{{ .Date }}">{{ .Date.Format "2006-01-02" }}</time></span>
-                            </li>
-                            {{ end }}
-                        </ul>
-                    </div>
-                </div>
-              </div>
-            {{ end }}
-            </div>
+  <div class="page-header" id="featured">
+    <div class="card-columns">
+      {{ $pages := (where .Data.Pages "Section" "post")}}
+      {{ range $pages.GroupByParam "category" }}
+        <div class="card m-1">
+          <h4 class="card-header">
+          {{ .Key }}
+          </h4>
+          <div class="card-body">
+          <div class="card-text">
+            <ul class="sansserif">
+              {{ range (where .Pages "Section" "post") }}
+              <li><span class="categories-timestamp text-secondary"><time datetime="{{ .Date }}">{{ .Date.Format "2006-01-02" }}</time></span> <a href="{{ .Permalink }}">{{ .Title }}</a>
+              </li>
+              {{ end }}
+            </ul>
+          </div>
         </div>
+        </div>
+      {{ end }}
     </div>
+  </div>
 
 </div>
