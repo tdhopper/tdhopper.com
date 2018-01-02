@@ -1,3 +1,4 @@
 /public
 node_modules
 themes/hugo-theme-bootstrap4-blog/package-lock.json
+package-lock.json

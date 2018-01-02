@@ -1,0 +1,31 @@
+{
+  "name": "hugo-theme-bootstrap4-blog",
+  "version": "0.0.1",
+  "description": "A Bootstrap v4 theme for the Hugo static site generator.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alanorth/hugo-theme-bootstrap4-blog.git"
+  },
+  "scripts": {
+    "build:css": "node-sass --output-style expanded --precision 6 themes/hugo-theme-bootstrap4-blog/source/scss/style.scss themes/hugo-theme-bootstrap4-blog/static/css/style.css.tmp && cleancss --level 1 themes/hugo-theme-bootstrap4-blog/static/css/style.css.tmp -o themes/hugo-theme-bootstrap4-blog/static/css/style.css",
+    "build:fonts": "cp node_modules/font-awesome/fonts/* themes/hugo-theme-bootstrap4-blog/static/fonts",
+    "build:cookieconsent": "cp node_modules/cookieconsent/build/cookieconsent.min.css themes/hugo-theme-bootstrap4-blog/static/css && cp node_modules/cookieconsent/build/cookieconsent.min.js themes/hugo-theme-bootstrap4-blog/static/js",
+    "build:generatesri": "node themes/hugo-theme-bootstrap4-blog/build/sri.js > data/sri.toml",
+    "build": "npm run build:css && npm run build:fonts && npm run build:cookieconsent && npm run clean",
+    "clean": "rm -f themes/hugo-theme-bootstrap4-blog/static/css/style.css.tmp",
+    "watch": "npm-watch build"
+  },
+  "keywords": "hugo",
+  "author": "Alan Orth",
+  "license": "GPL-3.0",
+  "devDependencies": {
+    "bootstrap": "4.0.0-beta",
+    "clean-css-cli": "^4.1.6",
+    "cookieconsent": "^3.0.4",
+    "font-awesome": "^4.7.0",
+    "node-sass": "^4.5.3"
+  },
+  "dependencies": {
+    "npm-watch": "^0.3.0"
+  }
+}
