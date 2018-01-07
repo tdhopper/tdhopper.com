@@ -14,7 +14,7 @@ scss-watch:
 	nodemon --watch themes/hugo-theme-bootstrap4-blog/source/scss/ -x "npm run build"
 
 scss:
-npm run build
+	npm run build
 
 preview:
 	hugo server --watch --port 1313 --buildDrafts --buildFuture --quiet
