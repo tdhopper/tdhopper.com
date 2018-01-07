@@ -3,7 +3,7 @@ title: How I Became a Data Scientist Despite Having Been a Math Major
 category: Article
 tags: []
 slug: how-i-became-a-data-scientist
-aliases: [/blog/2015/May/11/how-i-became-a-data-scientist/]
+aliases: [/blog/2015/May/11/how-i-became-a-data-scientist/, /how/]
 date: 2015-05-11
 description: An overview of my round-about journey from studying math as an undergrad to the world of data science.
 Thumbnail: /abacus.jpg
