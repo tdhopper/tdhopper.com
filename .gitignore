@@ -2,3 +2,4 @@
 node_modules
 themes/hugo-theme-bootstrap4-blog/package-lock.json
 package-lock.json
+themes/hugo-theme-bootstrap4-blog/static/css/style.css
