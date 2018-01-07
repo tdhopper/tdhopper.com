@@ -1,6 +1,6 @@
 SASSDIR='themes/bootstrap/static/assets/sass'
 COMPILEDCSSDIR='themes/bootstrap/static/assets/_css'
-S3_BUCKET='tdhopper.com-hugo'
+S3_BUCKET='tdhopper.com'
 
 all: clean build push
 	echo "Fail"

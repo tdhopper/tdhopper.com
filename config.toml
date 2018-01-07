@@ -1,4 +1,4 @@
-baseURL = "http://tdhopper.com-hugo.s3-website-us-east-1.amazonaws.com/"
+baseURL = "http://tdhopper.com/"
 languageCode = "en-us"
 title = "tdhopper.com"
 
