@@ -1,7 +1,7 @@
 ---
 title: Don't Buffer Python's stdout
 slug: don't-buffer-python's-stdout
-aliases: [/blog/2016/Apr/26/don't-buffer-python's-stdout/]
+aliases: [/blog/2016/Apr/26/dont-buffer-pythons-stdout/]
 category: Today I Learned
 date: 2016-04-26
 ---

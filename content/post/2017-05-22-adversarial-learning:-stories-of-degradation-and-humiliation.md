@@ -1,7 +1,7 @@
 ---
 title: "Adversarial Learning: Stories of Degradation and Humiliation"
 date: 2017-05-22
-slug: adversarial-learning:-stories-of-degradation-and-humiliation
+slug: stories-of-degradation-and-humiliation
 aliases: ["/blog/2017/May/22/adversarial-learning:-stories-of-degradation-and-humiliation/"]
 Tags:
 category: Personal Update

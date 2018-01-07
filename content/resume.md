@@ -2,9 +2,16 @@
 title:  Resume
 slug: resume
 description: Resume for Tim Hopper, data scientist and software developer
+date: 2018-01-06
 ---
 
 ### Experience
+
+
+#### [Cylance Inc](http://www.cylance.com/), *Raleigh, NC*
+##### Data Scientist (November 2017  – )
+
+* Research and develop machine learning techniques for malware detection.
 
 #### [Distil Networks](http://www.distilnetworks.com/), *Raleigh, NC*
 ##### Data Scientist (October 2015 – present)

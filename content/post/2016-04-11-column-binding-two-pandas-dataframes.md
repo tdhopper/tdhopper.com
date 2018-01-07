@@ -1,7 +1,7 @@
 ---
 title: Column binding two Panda's Dataframes
 slug: column-binding-two-panda's-dataframes
-aliases: [/blog/2016/Apr/11/column-binding-two-panda's-dataframes/]
+aliases: [/blog/2016/Apr/11/column-binding-two-pandas-dataframes/]
 category: Today I Learned
 date: 2016-04-11
 ---

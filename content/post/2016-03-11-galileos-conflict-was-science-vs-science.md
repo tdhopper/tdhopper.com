@@ -1,7 +1,7 @@
 ---
 title: Galileo's Conflict was Science vs. Science
 slug: galileo's-conflict-was-science-vs.-science
-aliases: [/blog/2016/Mar/11/galileo's-conflict-was-science-vs.-science/]
+aliases: [/blog/2016/Mar/11/galileos-conflict-was-science-vs.-science/, /blog/2016/Mar/11/galileos-conflict-was-science-vs-science/]
 category: Today I Learned
 date: 2016-03-11
 ---

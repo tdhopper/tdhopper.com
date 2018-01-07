@@ -2,7 +2,7 @@
 title: Conda on an AWS Linux AMI on a Mac
 date: 2017-10-06
 slug: conda-linux-vagrant
-aliases: [/blog/2017/Oct/06/conda-linux-vagrant/]
+aliases: [/blog/2017/Oct/06/2017-10-06-conda-linux-vagrant.md/, /blog/2017/Oct/06/2017-10-06-conda-linux-vagrant/]
 category: Article
 description: How to run an AWS Linux AMI in a Virtual Machine on MacOS.
 ---

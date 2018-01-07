@@ -2,7 +2,7 @@
 title: Companies I’ve interviewed at but not been offered jobs by
 date: 2017-11-10
 slug: turned-down-for-what
-aliases: [/blog/2017/Nov/11/turned-down-for-what/]
+aliases: [/blog/2017/Nov/10/turned-down-for-what/]
 category: Personal Update
 description: Names of companies that I've interviewed at but not been made offers by.
 ---

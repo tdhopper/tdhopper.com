@@ -1,7 +1,7 @@
 ---
 title: Walmart's Command of Logistics
 slug: walmart's-command-of-logistics
-aliases: [/blog/2013/Oct/17/walmart's-command-of-logistics/]
+aliases: [/blog/2013/Oct/17/walmarts-command-of-logistics/]
 date: 2013-10-17
 category: Quote
 ---
