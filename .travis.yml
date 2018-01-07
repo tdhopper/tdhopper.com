@@ -1,0 +1,24 @@
+language: python
+
+install:
+    - wget https://github.com/gohugoio/hugo/releases/download/v0.32.2/hugo_0.32.2_Linux-64bit.deb
+    - sudo dpkg -i hugo*.deb
+    - pip install Pygments
+
+script:
+    - hugo
+deploy:
+    - provider: s3
+      access_key_id: $AWS_ACCESS_KEY # declared in Travis repo settings
+      secret_access_key: $AWS_SECRET_KEY
+      bucket: tdhopper.com
+      region: us-east-1
+      skip_cleanup: true
+      local-dir: output
+      acl: public_read
+      default_text_charset: 'utf-8'
+      detect_encoding: true
+      on:
+        branch: master
+notifications:
+    email: false
