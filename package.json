@@ -15,7 +15,6 @@
     "clean": "rm -f themes/hugo-theme-bootstrap4-blog/static/css/style.css.tmp",
     "watch": "npm-watch build"
   },
-  "keywords": "hugo",
   "author": "Alan Orth",
   "license": "GPL-3.0",
   "devDependencies": {
@@ -26,6 +25,7 @@
     "node-sass": "^4.5.3"
   },
   "dependencies": {
+    "nodemon": "^1.14.7",
     "npm-watch": "^0.3.0"
   }
 }
