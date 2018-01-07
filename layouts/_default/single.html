@@ -56,10 +56,9 @@
 {{ define "main" }}
 {{ $dateFormat := default "Mon Jan 2, 2006" (index .Site.Params "date_format") }}
 
-<article class="blog-post">
+<article class="mb-2">
   <header>
     <h2 class="blog-post-title"><a href="{{ .Permalink }}">{{ .Title | markdownify }}</a></h2>
-    <p class="blog-post-meta"><time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format $dateFormat }}</time> by {{ .Params.author | default .Site.Params.author }}{{ if or (.Params.categories) (.Params.tags) }} in {{ partial "meta-terms.html" . }}{{ end }}</p>
   </header>
   {{ .Content }}
 
@@ -75,9 +74,9 @@
   {{ end }}
 
   {{ if or (ne ($.Param "sharingicons") false) (.Site.DisqusShortname) }}
-  <hr>
-  <footer>
 
+  <footer>
+  <p class="blog-post-meta mb-1">Posted <time datetime="{{ .Date.Format "2006-01-02T15:04:05Z07:00" }}">{{ .Date.Format $dateFormat }}</time> {{ if or (.Params.categories) (.Params.tags) }} in {{ partial "meta-terms.html" . }}{{ end }}</p>
   {{ if (ne ($.Param "sharingicons") false) }}
   {{ partial "sharing-icons.html" . }}
   {{ end }}
@@ -88,7 +87,7 @@
   </footer>
   {{ end }}
 
-</article> <!-- /.blog-post -->
+</article> 
 
 {{ end }}
 

@@ -1,9 +1,0 @@
----
-Title: Automating Python with Ansible
-Category: Tutorials
-Tags: featured
-slug:  2017-03-23-automating-python-with-ansible
-aliases: [/ 2017-03-23-automating-python-with-ansible]
-Date: 2017-03-23
-Thumbnail: static/cafe.jpg
-Summary: An interactive tutorial teaching you how to use Ansible to deploy a long running Python process to a remote machine.

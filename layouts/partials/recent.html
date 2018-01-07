@@ -6,7 +6,7 @@
 	      <div class="list-group">
 	        {{ $recent_content := first 8 (where .Data.Pages "Section" "post") }}
 	        {{ range $recent_content }}
-	          <a href="{{ .Permalink }}" class="list-group-item">
+	          <a href="{{ .Permalink }}" class="list-group-item list-group-item-action recent">
 	            <h5 class="list-group-item-heading">
 	            <span class="text-secondary">
 	              <time datetime="{{ .Date }}">
