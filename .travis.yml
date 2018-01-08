@@ -10,7 +10,7 @@ install:
 script:
     - npm run build
     - hugo --config config.toml --destination output
-    - aws personal s3 sync --delete --acl public-read public/ s3://tdhopper.com
+    - aws s3 sync --delete --acl public-read public/ s3://tdhopper.com
     - aws configure set preview.cloudfront true
     - aws cloudfront create-invalidation --distribution-id $CLOUDFRONT_DISTRIBUTION_ID --paths "/*"
 notifications:
