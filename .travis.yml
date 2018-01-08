@@ -1,24 +1,17 @@
 language: python
 
 install:
+    - npm install --verbose
     - wget https://github.com/gohugoio/hugo/releases/download/v0.32.2/hugo_0.32.2_Linux-64bit.deb
     - sudo dpkg -i hugo*.deb
     - pip install Pygments
+    - pip install awscli
 
 script:
-    - hugo --config config.toml --destination output  
-deploy:
-    - provider: s3
-      access_key_id: $AWS_ACCESS_KEY # declared in Travis repo settings
-      secret_access_key: $AWS_SECRET_KEY
-      bucket: tdhopper.com
-      region: us-east-1
-      skip_cleanup: true
-      local-dir: output
-      acl: public_read
-      default_text_charset: 'utf-8'
-      detect_encoding: true
-      on:
-        branch: master
+    - npm run build
+    - hugo --config config.toml --destination output
+    - aws personal s3 sync --delete --acl public-read public/ s3://tdhopper.com
+    - aws configure set preview.cloudfront true
+    - aws cloudfront create-invalidation --distribution-id $CLOUDFRONT_DISTRIBUTION_ID --paths "/*"
 notifications:
     email: false
