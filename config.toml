@@ -8,6 +8,11 @@ copyright = "2017 Tim Hopper"
 googleAnalytics = "UA-43428740-1"
 #disqusShortname = "XYW"
 
+[outputFormats]
+[outputFormats.RSS]
+mediatype = "application/rss"
+baseName = "feeds/all.atom"
+
 [taxonomies]
   category = "categories"
   tag = "tags"
