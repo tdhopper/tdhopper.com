@@ -26,7 +26,7 @@ clean:
 deploy: build s3_upload invalidate
 
 s3_upload: build
-	s3cmd sync --acl-public --delete-removed public/ s3://$(S3_BUCKET)
+	aws --profile personal s3 sync --delete --acl public-read public/ s3://$(S3_BUCKET)
 
 invalidate:
 	python build-scripts/invalidate.py
