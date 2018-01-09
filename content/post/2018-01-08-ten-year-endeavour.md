@@ -42,6 +42,12 @@ John’s blog is not his only educational outreach. He maintains [17 (!) Twitter
 
 One of John’s areas of expertise is implementing numerical algorithms in code. On his website, he has a [handful of technical notes](https://www.johndcook.com/blog/notes/) on this that many people have found invaluable. Two years ago, I did [a quick survey](https://tdhopper.com/blog/2016/Jan/13/mentions-of-john-cook-on-github/) of John’s articles mentioned in Github repos. Hundreds of repos cited his [Accurately computing running variance](https://www.johndcook.com/blog/standard_deviation/) article. No doubt countless more have used his resources without citing him!
 
-If you don't follow John's blog, you should [subscribe today](https://www.johndcook.com/blog/ways-to-subscribe/). Here's to 10 more years, John!
+If you don't follow John's blog, you should [subscribe today](https://www.johndcook.com/blog/ways-to-subscribe/).
+
+Here's to 10 more years, John!
+
+<blockquote class="twitter-tweet" data-cards="hidden" data-lang="en"><p lang="en" dir="ltr">Congrats to <a href="https://twitter.com/JohnDCook?ref_src=twsrc%5Etfw">@JohnDCook</a> on 10 years of blogging!<a href="https://t.co/DdMBjI89eV">https://t.co/DdMBjI89eV</a></p>&mdash; Tim Hopper 🆘 (@tdhopper) <a href="https://twitter.com/tdhopper/status/950556877246615552?ref_src=twsrc%5Etfw">January 9, 2018</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 
 [^veryapplied]: Instead preferring being a [very applied mathematician](https://www.johndcook.com/veryappliedmath.html).
