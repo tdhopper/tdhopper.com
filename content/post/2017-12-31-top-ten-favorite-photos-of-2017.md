@@ -4,6 +4,7 @@ category: Personal Update
 date: 2017-12-31
 slug: top-ten-favorite-photos-of-2017
 aliases: [/blog/2017/Dec/31/top-ten-favorite-photos-of-2017/]
+description: My annual pick of my favorite pictures I've taken over the year.
 ---
 
 Here are my favorite pictures I took in 2017.
