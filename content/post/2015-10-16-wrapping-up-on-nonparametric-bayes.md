@@ -6,7 +6,7 @@ date: 2015-10-16
 slug: wrapping-up-on-nonparametric-bayes
 aliases: [/blog/2015/Oct/16/wrapping-up-on-nonparametric-bayes/]
 description: Summary of my work developing a high-performance Python library for inference of nonparametric Latent Dirichlet Allocation.
-Thumbnail: /gibbs.png
+Thumbnail: /uploads/gibbs.png
 featured: True
 ---
 

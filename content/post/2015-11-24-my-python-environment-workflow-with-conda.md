@@ -6,7 +6,7 @@ date: 2015-11-24
 slug: my-python-environment-workflow-with-conda
 aliases: [/blog/2015/Nov/24/my-python-environment-workflow-with-conda/, /conda/]
 description: How Conda Environments for managing and reproducing dependencies have helped me streamline data science research.
-Thumbnail: /conda.png
+Thumbnail: /uploads/conda.png
 featured: True
 ---
 

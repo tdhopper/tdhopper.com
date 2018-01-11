@@ -6,7 +6,7 @@ category: Article
 slug: whats-a-stigler-diet
 aliases: [/blog/2012/Jan/12/whats-a-stigler-diet/]
 description: A look at economist George Stigler's applied optimization problem that this blog is named after.
-Thumbnail: /ibm701.jpg
+Thumbnail: /uploads/ibm701.jpg
 featured: True
 ---
 

@@ -4,7 +4,7 @@ ategory: Tutorials
 slug: automating-python-with-ansible
 aliases: [/blog/2017/Mar/23/2017-03-23-automating-python-with-ansible/]
 date: 2017-03-23
-thumbnail: /cafe.jpg
+Thumbnail: /uploads/cafe.jpg
 summary: An interactive tutorial teaching you how to use Ansible to deploy a long running Python process to a remote machine.
 featured: True
 markup: html
@@ -582,8 +582,8 @@ div.output_area {
 div.output_area .MathJax_Display {
   text-align: left !important;
 }
-div.output_area 
-div.output_area 
+div.output_area
+div.output_area
 div.output_area img,
 div.output_area svg {
   max-width: 100%;
@@ -842,7 +842,7 @@ h6:hover .anchor-link {
 .text_cell.rendered .input_area {
   display: none;
 }
-.text_cell.rendered 
+.text_cell.rendered
 .text_cell.unrendered .text_cell_render {
   display: none;
 }
@@ -1060,7 +1060,7 @@ You may encounter build failures or other breakages.
 <div class="output_subarea output_stream output_stdout output_text">
 <pre>ansible -i 'localhost,' -c local -m ping all
 <span class="ansi-green-fg">localhost | SUCCESS => {
-    "changed": false, 
+    "changed": false,
     "ping": "pong"
 }</span>
 </pre>
@@ -1262,7 +1262,7 @@ ansible 2.1.0.0
 <div class="output_subarea output_stream output_stdout output_text">
 <pre>ansible all -m ping
 <span class="ansi-green-fg">digitalocean | SUCCESS => {
-    "changed": false, 
+    "changed": false,
     "ping": "pong"
 }</span>
 </pre>
@@ -1345,18 +1345,18 @@ ansible 2.1.0.0
 <div class="prompt"></div>
 <div class="output_subarea output_stream output_stdout output_text">
 <pre>ansible-playbook ping.yml
- ____________ 
+ ____________
 < PLAY [all] >
- ------------ 
+ ------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 
- ______________ 
+ ______________
 < TASK [setup] >
- -------------- 
+ --------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
@@ -1364,9 +1364,9 @@ ansible 2.1.0.0
                 ||     ||
 
 <span class="ansi-green-fg">ok: [digitalocean]</span>
- _______________________ 
+ _______________________
 < TASK [ping all hosts] >
- ----------------------- 
+ -----------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
@@ -1374,16 +1374,16 @@ ansible 2.1.0.0
                 ||     ||
 
 <span class="ansi-green-fg">ok: [digitalocean]</span>
- ____________ 
+ ____________
 < PLAY RECAP >
- ------------ 
+ ------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 
-<span class="ansi-green-fg">digitalocean</span>               : <span class="ansi-green-fg">ok</span><span class="ansi-green-fg">=</span><span class="ansi-green-fg">2</span>    changed=0    unreachable=0    failed=0   
+<span class="ansi-green-fg">digitalocean</span>               : <span class="ansi-green-fg">ok</span><span class="ansi-green-fg">=</span><span class="ansi-green-fg">2</span>    changed=0    unreachable=0    failed=0
 
 </pre>
 </div>
@@ -1532,18 +1532,18 @@ ansible 2.1.0.0
 <div class="prompt"></div>
 <div class="output_subarea output_stream output_stdout output_text">
 <pre>ansible-playbook supervisor.yml
- _____________________ 
+ _____________________
 < PLAY [digitalocean] >
- --------------------- 
+ ---------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 
- ______________ 
+ ______________
 < TASK [setup] >
- -------------- 
+ --------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
@@ -1551,9 +1551,9 @@ ansible 2.1.0.0
                 ||     ||
 
 <span class="ansi-green-fg">ok: [digitalocean]</span>
- _________________________________________ 
+ _________________________________________
 < TASK [supervisor : Install supervisord] >
- ----------------------------------------- 
+ -----------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
@@ -1561,9 +1561,9 @@ ansible 2.1.0.0
                 ||     ||
 
 <span class="ansi-yellow-fg">changed: [digitalocean]</span>
- _______________________________________ 
+ _______________________________________
 < TASK [supervisor : Start supervisord] >
- --------------------------------------- 
+ ---------------------------------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
@@ -1571,16 +1571,16 @@ ansible 2.1.0.0
                 ||     ||
 
 <span class="ansi-yellow-fg">changed: [digitalocean]</span>
- ____________ 
+ ____________
 < PLAY RECAP >
- ------------ 
+ ------------
         \   ^__^
          \  (oo)\_______
             (__)\       )\/\
                 ||----w |
                 ||     ||
 
-<span class="ansi-yellow-fg">digitalocean</span>               : <span class="ansi-green-fg">ok</span><span class="ansi-green-fg">=</span><span class="ansi-green-fg">3</span>    <span class="ansi-yellow-fg">changed</span><span class="ansi-yellow-fg">=</span><span class="ansi-yellow-fg">2</span>    unreachable=0    failed=0   
+<span class="ansi-yellow-fg">digitalocean</span>               : <span class="ansi-green-fg">ok</span><span class="ansi-green-fg">=</span><span class="ansi-green-fg">3</span>    <span class="ansi-yellow-fg">changed</span><span class="ansi-yellow-fg">=</span><span class="ansi-yellow-fg">2</span>    unreachable=0    failed=0
 
 </pre>
 </div>
@@ -1685,7 +1685,7 @@ drwxrwxr-x  3 tdhopper  admin   102B Mar 21 11:33 <span class="ansi-blue-fg">var
 <div class="output_area">
 <div class="prompt"></div>
 <div class="output_subarea output_stream output_stdout output_text">
-<pre>/main.ymllocal/etc/ansible/roles/andrewrothstein.miniconda/tasks 
+<pre>/main.ymllocal/etc/ansible/roles/andrewrothstein.miniconda/tasks
 ---
 # tasks file for miniconda
 - name: download installer...
@@ -1712,7 +1712,7 @@ drwxrwxr-x  3 tdhopper  admin   102B Mar 21 11:33 <span class="ansi-blue-fg">var
   file:
     path: /tmp/{{miniconda_installer_sh}}
     state: absent
-    
+
 - name: link miniconda...
   become: yes
   become_user: root
@@ -1736,7 +1736,7 @@ drwxrwxr-x  3 tdhopper  admin   102B Mar 21 11:33 <span class="ansi-blue-fg">var
     src: '{{item}}.j2'
     dest: /{{item}}
     mode: 0644
-    
+
 </pre>
 </div>
 </div>
@@ -2027,7 +2027,7 @@ TASK [Start job] ***************************************************************
 <span class="ansi-yellow-fg">changed: [digitalocean]</span>
 
 PLAY RECAP *********************************************************************
-<span class="ansi-yellow-fg">digitalocean</span>               : <span class="ansi-green-fg">ok</span><span class="ansi-green-fg">=</span><span class="ansi-green-fg">13</span>   <span class="ansi-yellow-fg">changed</span><span class="ansi-yellow-fg">=</span><span class="ansi-yellow-fg">9</span>    unreachable=0    failed=0   
+<span class="ansi-yellow-fg">digitalocean</span>               : <span class="ansi-green-fg">ok</span><span class="ansi-green-fg">=</span><span class="ansi-green-fg">13</span>   <span class="ansi-yellow-fg">changed</span><span class="ansi-yellow-fg">=</span><span class="ansi-yellow-fg">9</span>    unreachable=0    failed=0
 
 </pre>
 </div>
