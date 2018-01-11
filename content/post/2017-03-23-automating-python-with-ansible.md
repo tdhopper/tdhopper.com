@@ -6,6 +6,7 @@ aliases: [/blog/2017/Mar/23/2017-03-23-automating-python-with-ansible/]
 date: 2017-03-23
 Thumbnail: /uploads/cafe.jpg
 summary: An interactive tutorial teaching you how to use Ansible to deploy a long running Python process to a remote machine.
+description: An interactive tutorial teaching you how to use Ansible to deploy a long running Python process to a remote machine.
 featured: True
 markup: html
 ---
