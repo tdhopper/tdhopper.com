@@ -6,7 +6,7 @@ date: 2015-09-04
 slug: entropy-of-a-discrete-probability-distribution
 aliases: [/blog/2015/Sep/04/entropy-of-a-discrete-probability-distribution/]
 description: A brief introduction to measuring the uncertainty of a discrete probability distribution using entropy.
-Thumbnail: /uploads/uploads/claudeshannon.jpg
+Thumbnail: /uploads/claudeshannon.jpg
 featured: True
 markup: mmark
 ---
