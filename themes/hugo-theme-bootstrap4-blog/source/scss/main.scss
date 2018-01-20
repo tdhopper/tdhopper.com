@@ -108,7 +108,12 @@ h6 .small,
   background-color: white;
 }
 
-/* Nav links */
+.fixed-top {
+  border-width: 0 0 1px;
+  border-color: #dddddd;
+  border-style: solid;
+}
+
 .nav-link {
   position: relative;
   padding: .35rem;
