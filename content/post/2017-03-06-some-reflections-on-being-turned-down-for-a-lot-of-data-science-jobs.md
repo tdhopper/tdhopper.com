@@ -13,7 +13,7 @@ description: In the last five years, I've clearly interviewed for a lot of data 
 
 > 👉 He's needing someone with an image analysis background for data scientist we're hiring now.
 
-> 👉 Quite honestly given your questions [about vacation policy] and the fact that you are considering other options, [we] may not be the best choice for you.
+> 👉 Quite honestly given your questions &#91;about vacation policy&#93; and the fact that you are considering other options, &#91;we&#93; may not be the best choice for you.
 
 These quotes above are some of the reasons I've been given for why I wasn't offered a data science job after interviewing. I've been told a variety of other reasons as well: company decided against hiring remotes after interviewing (I've heard this at least 3 times), company thought I changed jobs too frequently, company decided it didn't have necessary data infrastructure in place for data science work. Multiple companies gave no particular reason; some of these were at least kind enough to _notify me_ they weren't interested. One company hired someone with a Ph.D. from MIT soon after turning me down.
 
