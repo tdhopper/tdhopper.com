@@ -90,11 +90,19 @@ If you're still an student, you have a great opportunity to take control of your
 
 For both students and graduates, recognize your math knowledge becomes very marketable when combined skills such as programming and machine learning; there are a wealth of good books, MOOCs, and blog posts that can help you learn these things. More over, the barrier to entry for getting started with production quality tools has never been lower. Don't let your coursework be the extent of your education. There is so much more to learn![^ipython]
 
+__Update (Oct. 2017)__: I gave a talk based on this post:
+
+<div class="embed-responsive embed-responsive-16by9">
+<iframe class="embed-responsive-item" width="640" height="360" src="https://www.youtube.com/embed/Q_UrZ4pmKmI?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+
 [^ortraining]: At the same time, my academic training in operations research failed me, in some aspects, for a successful career in operations research. For example, practical math modeling was not sufficiently emphasized and the skills of computer programming and software development were undervalued.
 [^interviews]: I have successfully answered more than one interview question by regurgitating knowledge gleaned from tweets.
 [^planning]: Among other reasons, I didn't really plan to get where I am today. I changed majors no fewer than three times in college (physics, CS, and math) and essentially dropped out of two PhD programs!
 [^remaining]: Of course, I have plenty of data science skills left to learn. My knowledge of experimental design is still pretty fuzzy. I still struggle with effective mathematical modeling. I haven't deployed a large scale machine learning system to production. I suck at software logging. I have no idea how deep learning works.
 [^ipython]: For example, install  [Anaconda](https://store.continuum.io/cshop/anaconda/) and start playing with some of [these IPython notebooks](https://github.com/ipython/ipython/wiki/A-gallery-of-interesting-IPython-Notebooks).
+
 
 
 <script type="text/javascript" src="//s3.amazonaws.com/downloads.mailchimp.com/js/signup-forms/popup/embed.js" data-dojo-config="usePlainJson: true, isDebug: false"></script><script type="text/javascript">require(["mojo/signup-forms/Loader"], function(L) { L.start({"baseUrl":"mc.us15.list-manage.com","uuid":"8d66a62ca6b0823dfc767de63","lid":"f1c0e59e9b"}) })</script>
