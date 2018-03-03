@@ -13,7 +13,7 @@ draft: true
 [Three years ago](https://tdhopper.com/blog/how-i-became-a-data-scientist/), I wrote a posted called "How I Became a Data Scientist Despite Being a Math Major".
 
 
-When I wrote the post, I thought I was explaining that that was about all I know about how someone can become a data scientist: that is, I shared my subjective experience. I intended to communcate my uncertainty about the path others should take.  But, given the number of people who have read the post and emailed asking for my advice on becoming a data scientist, that message wasn't clear. With most of these emails, I have felt bad because I simply don't know the answers to the questions people have. But because so many people seem to have these questions, I decided to consolidate my uncertainty here. I hope you find it helpful.
+When I wrote the post, I thought I was explaining that that was about all I know about how someone can become a data scientist: that is, I shared my subjective experience. I intended to communicate my uncertainty about the path others should take.  But, given the number of people who have read the post and emailed asking for my advice on becoming a data scientist, that message wasn't clear. With most of these emails, I have felt bad because I simply don't know the answers to the questions people have. But because so many people seem to have these questions, I decided to consolidate my uncertainty here. I hope you find it helpful.
 
 
 A note before the Q&A: one reason it is so hard to advise someone on becoming a "data scientist" is that "data scientist" is an ill-defined job title. At some companies, data scientists are building machine learning models and running them in a high performance production system. At other data companies, data scientists are business analysts running SQL queries and visualizing the results with Tableau. Some data scientist are doing complex experimental design while others are mostly moving files around S3 buckets. Some data science roles require deep domain expertise, others only need some programming skill and knowledge of Scikit-Learn. As you shape your own path to data science, take some time to think specifically about the kind of work you are interested in doing; this will shape your preparation.
@@ -22,7 +22,7 @@ A note before the Q&A: one reason it is so hard to advise someone on becoming a 
 
 My sense is that a masters degree in a technical field is valuable. It takes a fraction of the time a Ph.D. takes, yet you can learn a lot in 3 or 4 semesters of coursework, and the degree is viewed favoribly by employers.
 
-I'm wary of people going into deep debt for a masters degree. If you can get a teaching or research position that waives your tuition, do it. Also consider going a good school on in-state tuition instead of a great school for $100,000. If you have publically subsized graduate education (as in many European countries), go for it!
+I'm wary of people going into deep debt for a masters degree. If you can get a teaching or research position that waives your tuition, do it. Also consider going a good school on in-state tuition instead of a great school for $100,000. If you have publicly subsidized graduate education (as in many European countries), go for it!
 
 *Will a masters degree help me become/be a data scientist?*
 
@@ -30,7 +30,7 @@ I don't know, but it has helped me. As I said in [my earlier post](https://tdhop
 
 *Should I get a masters degree in computer science? Will it help me become a data scientist?*
 
-I think a masters degree in computer science will be likely to pay off in the long run. It may not help you get a job as a data scientist, but it would undoubtly help you in a data science job.
+I think a masters degree in computer science will be likely to pay off in the long run. It may not help you get a job as a data scientist, but it would undoubtedly help you in a data science job.
 
 I have half of a computer science masters, and I sometimes wish I had finished it.
 
@@ -40,7 +40,7 @@ I'm ambivalent about operations research. As a discipline, operations research h
 
 *Did you feel that operations research was too theoretical and had that you had to hustle outside the classroom and build stat/ML skills separately?*
 
-Operations research programs have wildly different curriculums. Mine didn't do a great job preparing me for real-world applications, but that might be better learned on the job anyway. My program allowed me to build statistics and ML expertise only because I had flexibilty in the courses I could select; I was able to take a handful of stats/ML related classes. Other programs might not offer that.
+Operations research programs have wildly different curriculums. Mine didn't do a great job preparing me for real-world applications, but that might be better learned on the job anyway. My program allowed me to build statistics and ML expertise only because I had flexibility in the courses I could select; I was able to take a handful of stats/ML related classes. Other programs might not offer that.
 
 *Should I get a masters degree in statistics?*
 
@@ -75,7 +75,7 @@ Even in data science jobs, a lot of the work is far removed from interesting mat
 
 *What skills would you recommend I develop if I hope to become a data scientist?*
 
-You can never be a good enough writer, communicator, software engineer, linear algebraist, or applied statistican. Tenacity is important too, though I'm not sure how you develop it.
+You can never be a good enough writer, communicator, software engineer, linear algebraist, or applied statistician. Tenacity is important too, though I'm not sure how you develop it.
 
 *Am I doing the right things to build a successful career in data science?*
 
