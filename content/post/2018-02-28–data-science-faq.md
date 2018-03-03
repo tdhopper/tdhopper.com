@@ -1,4 +1,4 @@
-----
+---
 title: Becoming a Data Scientist FAQ
 category: Article
 tags: []
