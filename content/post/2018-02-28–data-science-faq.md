@@ -10,7 +10,7 @@ draft: true
 ---
 
 
-[Three years ago](https://tdhopper.com/blog/how-i-became-a-data-scientist/), I wrote a posted called "How I Became a Data Scientist Despite Being a Math Major". 
+[Three years ago](https://tdhopper.com/blog/how-i-became-a-data-scientist/), I wrote a posted called "How I Became a Data Scientist Despite Being a Math Major".
 
 
 When I wrote the post, I thought I was explaining that that was about all I know about how someone can become a data scientist: that is, I shared my subjective experience. I intended to communcate my uncertainty about the path others should take.  But, given the number of people who have read the post and emailed asking for my advice on becoming a data scientist, that message wasn't clear. With most of these emails, I have felt bad because I simply don't know the answers to the questions people have. But because so many people seem to have these questions, I decided to consolidate my uncertainty here. I hope you find it helpful.
@@ -22,7 +22,7 @@ A note before the Q&A: one reason it is so hard to advise someone on becoming a 
 
 My sense is that a masters degree in a technical field is valuable. It takes a fraction of the time a Ph.D. takes, yet you can learn a lot in 3 or 4 semesters of coursework, and the degree is viewed favoribly by employers.
 
-I'm wary of people going into deep debt for a masters degree. If you can get a teaching or research position that waves your tuition, do it. Also consider going a good school on in-state tuition instead of a great school for $100,000. If you have publically subsized graduate education (as in many European countries), go for it!
+I'm wary of people going into deep debt for a masters degree. If you can get a teaching or research position that waives your tuition, do it. Also consider going a good school on in-state tuition instead of a great school for $100,000. If you have publically subsized graduate education (as in many European countries), go for it!
 
 *Will a masters degree help me become/be a data scientist?*
 
@@ -30,7 +30,7 @@ I don't know, but it has helped me. As I said in [my earlier post](https://tdhop
 
 *Should I get a masters degree in computer science? Will it help me become a data scientist?*
 
-I think a masters degree in computer science will be likely to pay off in the long run. It may not help you get a job as a data scientist, but it would undoubtly help you in a data science job. 
+I think a masters degree in computer science will be likely to pay off in the long run. It may not help you get a job as a data scientist, but it would undoubtly help you in a data science job.
 
 I have half of a computer science masters, and I sometimes wish I had finished it.
 
@@ -62,11 +62,11 @@ Take the best professors you can (note I didn't say _easiest_). Talk to older st
 
 *Can you evaluate my qualifications for being a data scientist?*
 
-Not very well. In fact, [I think it's pretty challenging](https://tdhopper.com/blog/some-reflections-on-being-turned-down-for-a-lot-of-data-science-jobs/) even for people who interview data science candidates. Beyond [the things I outline in my original post](https://tdhopper.com/blog/how-i-became-a-data-scientist/) as being important for my own career, I'm 
+Not very well. In fact, [I think it's pretty challenging](https://tdhopper.com/blog/some-reflections-on-being-turned-down-for-a-lot-of-data-science-jobs/) even for people who interview data science candidates. Beyond [the things I outline in my original post](https://tdhopper.com/blog/how-i-became-a-data-scientist/) as being important for my own career, I'm ... _finish sentence_.
 
 *How do I show-on-my-resume/demonstrate-to-employers that I am qualified to be a data scientist?*
 
-My best advice is to work on interesting and relevant things and [tell people about them](https://youtu.be/uRul8QdYvqQ). I don't know how to be more specific. 
+My best advice is to work on interesting and relevant things and [tell people about them](https://youtu.be/uRul8QdYvqQ). I don't know how to be more specific.
 
 
 *How can I get a job where I can do more applied math?*
@@ -79,7 +79,7 @@ You can never be a good enough writer, communicator, software engineer, linear a
 
 *Am I doing the right things to build a successful career in data science?*
 
-I don't know the answer to that question. I have tried to share the things that have been valuable for me in the preceding answer and [in my blog post](https://tdhopper.com/blog/how-i-became-a-data-scientist/) 
+I don't know the answer to that question. I have tried to share the things that have been valuable for me in the preceding answer and [in my blog post](https://tdhopper.com/blog/how-i-became-a-data-scientist/)
 
 *I'm in a career as a teacher/developer/analyst/etc. Can you advise me on how I can transition be a data scientist?*
 
