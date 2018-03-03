@@ -20,9 +20,9 @@ A note before the Q&A: one reason it is so hard to advise someone on becoming a 
 
 *Should I get a masters degree?*
 
-My sense is that a masters degree in a technical field is valuable. It takes a fraction of the time a Ph.D. takes, yet you can learn a lot in 3 or 4 semesters of coursework, and the degree is viewed favoribly by employers.
+My sense is that a good masters degree in a technical field is a valuable degree. It takes a fraction of the time a Ph.D. takes, yet you can learn a lot in 3 or 4 semesters of coursework, and the degree is viewed favoribly by employers. The quality and curriculum of masters programs varies wildly, so you'll want to do your due diligence before diving in.
 
-I'm wary of people going into deep debt for a masters degree. If you can get a teaching or research position that waives your tuition, do it. Also consider going a good school on in-state tuition instead of a great school for $100,000. If you have publicly subsidized graduate education (as in many European countries), go for it!
+That said, I'm wary of people going into deep debt for a masters degree. If you can get a teaching or research position that waives your tuition, do it. Consider going a _good_ school on in-state tuition instead of a _great_ school for $100,000. If you have publicly subsidized graduate education (as in many European countries), go for it!
 
 *Will a masters degree help me become/be a data scientist?*
 
@@ -50,6 +50,8 @@ If you have strong programming/software engineering skills (or have another mean
 
 [I don't think it's worth it for most people.](https://mobile.twitter.com/shouldyougetphd) It's also not necessary for the vast majority of data science jobs. [I have a dedicated website to help you answer this question.](https://shouldigetaphd.com)
 
+There are a lot of pepole with Ph.D.'s in data science rolls. It's possible that is more a result of the large difference in the number Ph.D.'s verses the small number of permanent faculity positions in American universities. People with Ph.D.'s need jobs; many have skills overlapping with data science; they make their way from academia to data science.[^roy]
+
 *Can I become a data scientist with only an undergraduate degree?*
 
 Many others have. I have known several who don't even have college degrees.
@@ -62,7 +64,11 @@ Take the best professors you can (note I didn't say _easiest_). Talk to older st
 
 *Can you evaluate my qualifications for being a data scientist?*
 
-Not very well. In fact, [I think it's pretty challenging](https://tdhopper.com/blog/some-reflections-on-being-turned-down-for-a-lot-of-data-science-jobs/) even for people who interview data science candidates. Beyond [the things I outline in my original post](https://tdhopper.com/blog/how-i-became-a-data-scientist/) as being important for my own career, I'm ... _finish sentence_.
+Not very well. In fact, [I think it's pretty challenging](https://tdhopper.com/blog/some-reflections-on-being-turned-down-for-a-lot-of-data-science-jobs/) even for people who interview data science candidates. [I have tried to share the things that helped qualify me](https://tdhopper.com/blog/how-i-became-a-data-scientist/), and I imagine those things would be valuable for you as well.
+
+I would suggest trying to evaluate your qualifications against specific jobs (or job descriptions) you are interested in. Are you more interested in [analysis or production systems](https://medium.com/@rchang/my-two-year-journey-as-a-data-scientist-at-twitter-f0c13298aee6)? Are you interested cybersecurity applications? Ad markets? Public good? Journalism? Finance? Healthcare? Self-driving cars? Find job postings for rolls and look at the qualifications. Find people in these roles on Linkedin and look at their qualifications and job history.
+
+One other note: just because you're qualified, doesn't mean you will get job offers. Not getting an offer after interviewing _might_ reflect more on poor interviewers than being a poor candiate.
 
 *How do I show-on-my-resume/demonstrate-to-employers that I am qualified to be a data scientist?*
 
@@ -88,3 +94,5 @@ I have tried [to share the things that worked for me](https://tdhopper.com/blog/
 *Can we find a time to talk on the phone about this?*
 
 Unfortunately, I don't have the time and energy to do this.
+
+[^roy]: I thank my friend [Dr. Roy Keyes](https://mobile.twitter.com/roycoding) for this insight.
