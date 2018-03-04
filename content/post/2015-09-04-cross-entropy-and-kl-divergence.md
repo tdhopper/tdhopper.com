@@ -4,20 +4,20 @@ category: Article
 date: 2015-09-04
 slug: cross-entropy-and-kl-divergence
 aliases: [/blog/2015/Sep/04/cross-entropy-and-kl-divergence/]
-markup: mmark
+markup: "mmark"
 ---
 
 
 [As we saw in an earlier post](http://stiglerdiet.com/blog/2015/Sep/04/entropy-of-a-discrete-probability-distribution/), the entropy of a discrete probability distribution is defined to be
 
-$$H(p)=H(p_1,p_2,\ldots,p_n)=-\sum_{i}p_i \log p_i.$$
+\\[H(p)=H(p\_1,p\_2,\ldots,p\_n)=-\sum\_{i}p\_i \log p\_i.\\]
 
 Kullback and Leibler defined a similar measure now known as _KL divergence_. This measure quantifies how similar a probability distribution \\(p\\) is to a candidate distribution \\(q\\).
 
 \\[D_{\text{KL}}(p\ | q)=\sum_i p_i \log \frac{p_i}{q_i}.\\]
 
 
-\\(D_\text{KL}\\) is non-negative and zero if and only if \\( p_i = q_i \\) for all \\(i\\). However, it is important to note that it is not in general symmetric: 
+\\(D_\text{KL}\\) is non-negative and zero if and only if \\( p_i = q_i \\) for all \\(i\\). However, it is important to note that it is not in general symmetric:
 
 \\[ D_{\text{KL}}(p\| q) \neq D_{\text{KL}}(q\| p).\\]
 
