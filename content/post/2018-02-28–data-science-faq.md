@@ -95,4 +95,6 @@ I have tried [to share the things that worked for me](https://tdhopper.com/blog/
 
 Unfortunately, I don't have the time and energy to do this.
 
+<small class="text-muted">Thanks to [Roy Keyes](https://mobile.twitter.com/roycoding), [Vicki Boykis](http://www.vickiboykis.com), and [Justin Bozonier](https://twitter.com/databozo) for helpful feedback on a draft of this post.</small>    
+
 [^roy]: I thank my friend [Dr. Roy Keyes](https://mobile.twitter.com/roycoding) for this insight.
