@@ -1,12 +1,12 @@
 ---
-title: Becoming a Data Scientist FAQ
+title: A Subjective and Anecdotal FAQ on Becoming a Data Scientist
 category: Article
 tags: []
 slug: faq
 aliases: [/faq/]
 date: 2018-03-05
 description: Answers to some questions I've gotten on how to become a data scientist.
-draft: true
+draft: false
 ---
 
 
