@@ -85,7 +85,7 @@ You can never be a good enough writer, communicator, software engineer, linear a
 
 **Am I doing the right things to build a successful career in data science?**
 
-I don't know the answer to that question. I have tried to share the things that have been valuable for me in the preceding answer and [in my blog post](https://tdhopper.com/blog/how-i-became-a-data-scientist/)
+I don't know the answer to that question. I have tried to share the things that have been valuable for me in the preceding answer and [in my blog post](https://tdhopper.com/blog/how-i-became-a-data-scientist/).
 
 **I'm in a career as a teacher/developer/analyst/etc. Can you advise me on how I can transition to be a data scientist?**
 
