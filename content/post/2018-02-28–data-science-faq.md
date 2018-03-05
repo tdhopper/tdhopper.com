@@ -50,7 +50,7 @@ If you have strong programming/software engineering skills (or have another mean
 
 [I don't think it's worth it for most people.](https://mobile.twitter.com/shouldyougetphd) It's also not necessary for the vast majority of data science jobs. [I have a dedicated website to help you answer this question.](https://shouldigetaphd.com)
 
-There are a lot of people with Ph.D.'s in data science rolls. It's possible that is more a result of the large difference in the number Ph.D.'s verses the small number of permanent faculty positions in American universities. People with Ph.D.'s need jobs; many have skills overlapping with data science; they make their way from academia to data science.[^roy]
+There are a lot of people with Ph.D.'s in data science roles. It's possible that is more a result of the large difference in the number Ph.D.'s verses the small number of permanent faculty positions in American universities. People with Ph.D.'s need jobs; many have skills overlapping with data science; they make their way from academia to data science.[^roy]
 
 **Can I become a data scientist with only an undergraduate degree?**
 
@@ -66,7 +66,7 @@ Take the best professors you can (note I didn't say _easiest_). Talk to older st
 
 Not very well. In fact, [I think it's pretty challenging](https://tdhopper.com/blog/some-reflections-on-being-turned-down-for-a-lot-of-data-science-jobs/) even for people who interview data science candidates. [I have tried to share the things that helped qualify me](https://tdhopper.com/blog/how-i-became-a-data-scientist/), and I imagine those things would be valuable for you as well.
 
-I would suggest trying to evaluate your qualifications against specific jobs (or job descriptions) you are interested in. Are you more interested in [analysis or production systems](https://medium.com/@rchang/my-two-year-journey-as-a-data-scientist-at-twitter-f0c13298aee6)? Are you interested cybersecurity applications? Ad markets? Social good? Journalism? Finance? Healthcare? Self-driving cars? Find job postings for rolls and look at the qualifications. Find people in these roles on Linkedin and look at their qualifications and job history.
+I would suggest trying to evaluate your qualifications against specific jobs (or job descriptions) you are interested in. Are you more interested in [analysis or production systems](https://medium.com/@rchang/my-two-year-journey-as-a-data-scientist-at-twitter-f0c13298aee6)? Are you interested cybersecurity applications? Ad markets? Social good? Journalism? Finance? Healthcare? Self-driving cars? Find job postings for roles and look at the qualifications. Find people in these roles on Linkedin and look at their qualifications and job history.
 
 One other note: just because you're qualified, doesn't mean you will get job offers. Not getting an offer after interviewing _might_ reflect more on poor interviewers than being a poor candidate.
 
