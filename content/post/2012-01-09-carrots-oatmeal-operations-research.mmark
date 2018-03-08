@@ -11,13 +11,13 @@ A former grad school classmate of mine lived largely off of oatmeal and carrots.
 
 [![](/uploads/2012/01/Whats-a-Stigler-Diet-Feasible1.gif)](/uploads/2012/01/Whats-a-Stigler-Diet-Feasible1.gif)
 
-A pound of carrots and a pound of oatmeal both cost about $0.50. So, we want _to minimize_ the function \\(\$0.5\cdot C+\$0.5\cdot Q\\) while still staying inside the blue region. We can write all of these things in a form that operations researchers call a "linear program."[^2what]
+A pound of carrots and a pound of oatmeal both cost about \$0.50. So, we want *to minimize* the function $\$0.5\cdot C+\$0.5\cdot Q$ while still staying inside the blue region. We can write all of these things in a form that operations researchers call a "linear program."[^2what]
 
 <div>
 \begin{align*}\text{minimize }\;\; & 0.5\cdot C+0.5\cdot Q\\ \text{subject to }\;\; &172\cdot C+1742\cdot Q\geq 2000\\&0.839\cdot C+25\cdot Q\leq 40\\&19\cdot C+15\cdot Q\geq 60\\&C\geq 0, \;Q\geq 0\end{align*}
 </div>
 
-It turns out, the optimal solution is that my friend should eat 2.44 pounds of carrots per day and 0.91 pounds of oatmeal. With that combination, he'll get all his nutrients, restrict his fat, and keep his grocery store bill as low as possible (about $1.73 per day!). Below, I show another graph of the possible carrot-oatmeal combinations. This time, the color of a point represents the cost of that diet. The optimal diet occurs at the black dot, i.e. where the graph is most red. The most expensive diet occurs at the bottom right corner, where the graph is most blue. That diet corresponds to eating nearly 48 pounds of carrots per day!
+It turns out, the optimal solution is that my friend should eat 2.44 pounds of carrots per day and 0.91 pounds of oatmeal. With that combination, he'll get all his nutrients, restrict his fat, and keep his grocery store bill as low as possible (about \$1.73 per day!). Below, I show another graph of the possible carrot-oatmeal combinations. This time, the color of a point represents the cost of that diet. The optimal diet occurs at the black dot, i.e. where the graph is most red. The most expensive diet occurs at the bottom right corner, where the graph is most blue. That diet corresponds to eating nearly 48 pounds of carrots per day!
 
 [![](/uploads/2012/01/Whats-a-Stigler-Diet-Temp.gif)](/uploads/2012/01/Whats-a-Stigler-Diet-Temp.gif)
 
