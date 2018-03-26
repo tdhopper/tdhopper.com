@@ -3,6 +3,7 @@ title: George Washington's Struggle for Inbox Zero
 slug: george-washington-inbox-zero
 date: 2018-03-26
 category: Quote
+description: Ron Chernow on George Washington's never ending battle with mail during the Revolutionary War.
 ---
 
 [Ron Chernow](https://amzn.to/2GfHNbu) on George Washington's struggle with mail:
