@@ -1,5 +1,9 @@
 blockquote {
-    font-size: 16px;
+    padding: 11px 22px;
+    margin: 0 0 22px;
+    font-size: 20px;
+    border-left: 5px solid #4582ec;
+    size: 14px;
 }
 
 @media (min-width: 768px) {
