@@ -97,6 +97,7 @@ __Update (Oct. 2017)__: I gave a talk based on this post:
 <iframe class="embed-responsive-item" width="640" height="360" src="https://www.youtube.com/embed/Q_UrZ4pmKmI?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
+__Update (Mar. 2018)__: I get a lot of emails with questions about this post, so I wrote [FAQ](https://tdhopper.com/blog/faq/) post trying to answer some of them.
 
 [^ortraining]: At the same time, my academic training in operations research failed me, in some aspects, for a successful career in operations research. For example, practical math modeling was not sufficiently emphasized and the skills of computer programming and software development were undervalued.
 [^interviews]: I have successfully answered more than one interview question by regurgitating knowledge gleaned from tweets.
