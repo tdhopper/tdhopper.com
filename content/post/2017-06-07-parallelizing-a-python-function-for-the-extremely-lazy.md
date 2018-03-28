@@ -3,7 +3,7 @@ title: Parallelizing a Python Function for the Extremely Lazy
 date: 2017-06-07
 slug: parallelizing-a-python-function-for-the-extremely-lazy
 aliases: [/blog/2017/Jun/07/parallelizing-a-python-function-for-the-extremely-lazy/]
-categories:
+category:
   - Articles
 Description: How to use a simple Python CLI and GNU Parallel to quickly run a Python process on multiple cores.
 ---
