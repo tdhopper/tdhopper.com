@@ -24,6 +24,7 @@ baseName = "feeds/all.atom"
 [params]
   # Site author
   author = "Tim Hopper"
+  long_title=  "Tim Hopper | machine learning engineering, photography, math jokes"
 
   # Description/subtitle for homepage (can be Markdown)
   description = "@@@"
