@@ -17,7 +17,7 @@ One questioner asked about open sourcing old versions of Mathematica. [Wolfram r
 
 His most interesting answer is [his opinion on Matlab](http://www.reddit.com/r/IAmA/comments/qisot/im_stephen_wolfram_mathematica_nks_wolframalpha/c3xxhvt). He argues that Matlab has remained matrix-centric when so much of contemporary mathematics goes beyond that. "In the complete web of algorithms in Mathematica, things that can reasonably be represented as numerical matrices are perhaps 5 or 10% of the total." However, Wolfram believes that Mathematica isn't outdone by Maple in the realm of matrices.
 
-Wolfram relays that a major goal of Mathematica is "to make a single coherent system in which one can work, and in which everything fits nicely together." [I argued](http://www.stiglerdiet.com/2012/02/10/mathematica-a-love-story/) that that's one thing they've done quite well.
+Wolfram relays that a major goal of Mathematica is "to make a single coherent system in which one can work, and in which everything fits nicely together." [I argued](http://www.tdhopper.com/blog/mathematica-a-love-story/) that that's one thing they've done quite well.
 
 I appreciate Wolfram doing this. I continue to be optimistic about Mathematica as a product, and I hope they have a bright future ahead of them.
 

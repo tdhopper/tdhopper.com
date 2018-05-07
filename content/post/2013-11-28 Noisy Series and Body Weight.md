@@ -6,7 +6,7 @@ date: 2013-11-28
 category: Article
 ---
 
-Back in July, I posted some [analysis of my attempt at weight loss](http://stiglerdiet.com/blog/2013/Jul/26/noisy-series-and-body-weight/). Now that I'm four months further down the line, I thought I'd post a follow-up.
+Back in July, I posted some [analysis of my attempt at weight loss](http://tdhopper.com/blog/2013/Jul/26/noisy-series-and-body-weight/). Now that I'm four months further down the line, I thought I'd post a follow-up.
 
 I continue to be fascinated with how noisy my weight time series is. While I've continued to lose weight over time, my weight goes up two out of five mornings.
 

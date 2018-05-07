@@ -14,5 +14,5 @@ To that end, I created a quick Bash function [to create a new post for me](https
 $ new-post "New Post Function for Bash"
 ```
 
-Combined with Greg Reda's [Travis CI](http://stiglerdiet.com/blog/2015/Mar/27/auto-deploying-stigler-diet-with-travis-ci/) trick, the friction in getting a new post online is greatly reduced.
+Combined with Greg Reda's [Travis CI](http://tdhopper.com/blog/2015/Mar/27/auto-deploying-stigler-diet-with-travis-ci/) trick, the friction in getting a new post online is greatly reduced.
 

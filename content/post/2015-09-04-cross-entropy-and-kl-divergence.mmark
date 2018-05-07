@@ -8,7 +8,7 @@ markup: "XX"
 ---
 
 
-[As we saw in an earlier post](http://stiglerdiet.com/blog/2015/Sep/04/entropy-of-a-discrete-probability-distribution/), the entropy of a discrete probability distribution is defined to be
+[As we saw in an earlier post](https://tdhopper.com/blog/entropy-of-a-discrete-probability-distribution/), the entropy of a discrete probability distribution is defined to be
 
 \\[H(p)=H(p\_1,p\_2,\ldots,p\_n)=-\sum\_{i}p\_i \log p\_i.\\]
 
