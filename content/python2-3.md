@@ -15,9 +15,10 @@ You can see a countdown clock at [pythonclock.org](https://pythonclock.org).
 
 Python 3 has great new features including
 
-* [asyncio]((https://docs.python.org/3/library/asyncio.html)
+* [asyncio](https://docs.python.org/3/library/asyncio.html)
 * [f-strings](https://cito.github.io/blog/f-strings/)
 * better Unicode support
+* Matrix multiplication
 
 ## Open-source maintainers are dropping Python 2 support for their libraries.
 
