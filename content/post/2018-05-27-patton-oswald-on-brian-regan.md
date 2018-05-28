@@ -3,9 +3,9 @@ title: Oswald on Regan
 date: 2018-05-27
 slug: oswald-on-regan
 category: Quote
-description: Patton Oswald on the cosmic truths of fellow commedian Brian Regan
+description: Patton Oswald on the cosmic truths of fellow comedian Brian Regan
 ---
-I've long been a fan of commedian Brian Regan. Patton Oswald agrees:
+I've long been a fan of comedian Brian Regan. Patton Oswald agrees:
 
 > He, more than any of us, can look at the mundane and turn it into the most cosmic truth. He'll find epiphanies ordering donuts! Martians could come down and watch Brian Regan and go, 'Now I know how humans are in their not glorious moments. This is what day-to-day humanity is.' His stuff should be sent into space on a golden disk.
 
