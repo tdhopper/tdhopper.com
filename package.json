@@ -7,7 +7,7 @@
     "url": "https://github.com/alanorth/hugo-theme-bootstrap4-blog.git"
   },
   "scripts": {
-    "build:css": "node-sass --output-style expanded --precision 6 node_modules/bootstrap/scss/style.scss themes/hugo-theme-bootstrap4-blog/static/css/style.css.tmp && cleancss --level 1 themes/hugo-theme-bootstrap4-blog/static/css/style.css.tmp -o themes/hugo-theme-bootstrap4-blog/static/css/style.css",
+    "build:css": "node-sass --output-style expanded --precision 6 node_modules/bootstrap/scss/bootstrap.scss themes/hugo-theme-bootstrap4-blog/static/css/style.css.tmp && cleancss --level 1 themes/hugo-theme-bootstrap4-blog/static/css/style.css.tmp -o themes/hugo-theme-bootstrap4-blog/static/css/style.css",
     "build:fonts": "cp node_modules/font-awesome/fonts/* themes/hugo-theme-bootstrap4-blog/static/fonts",
     "build:cookieconsent": "cp node_modules/cookieconsent/build/cookieconsent.min.css themes/hugo-theme-bootstrap4-blog/static/css && cp node_modules/cookieconsent/build/cookieconsent.min.js themes/hugo-theme-bootstrap4-blog/static/js",
     "build:generatesri": "node themes/hugo-theme-bootstrap4-blog/build/sri.js > data/sri.toml",
