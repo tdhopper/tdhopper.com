@@ -37,7 +37,7 @@ Up to this point, I was thrilled with the Athena experience. However, after this
 
 First, Athena doesn't allow you to create an external table on S3 and then write to it with `INSERT INTO` or `INSERT OVERWRITE`. Thus, you can't script where your output files are placed. More [unsupported SQL statements are listed here](http://docs.aws.amazon.com/athena/latest/ug/language-reference.html#unsupported-ddl).
 
-Next, the Athena UI only allowed one statement to be run at once. Because I wanted to load partitioned data, I had to run a bunch of statements of the form `ALTER TABLE default.logs ADD partition (d = numeric-date) LOCATION 's3://bucket/path/numeric-date/'; using the Athena UI would've required me to run these one day at a time. Thankfully, I was able to run them all at once [in SQL Workbench](https://docs.aws.amazon.com/athena/latest/ug/connect-with-jdbc.html).
+Next, the Athena UI only allowed one statement to be run at once. Because I wanted to load partitioned data, I had to run a bunch of statements of the form `ALTER TABLE default.logs ADD partition (d = numeric-date) LOCATION 's3://bucket/path/numeric-date/'`; using the Athena UI would've required me to run these one day at a time. Thankfully, I was able to run them all at once [in SQL Workbench](https://docs.aws.amazon.com/athena/latest/ug/connect-with-jdbc.html).
 
 Third, Athena's output format is highly limited. It strictly outputs CSV files _where every field is quoted_. This was particularly problematic for me because I hoped to later load my data into Impala, and Impala can't extract text data from quoted fields! I was told by Athena support "We do plan to make improvements in this area but I don’t have an ETA yet."
 
