@@ -1,5 +1,5 @@
 ---
-title: Nonparametric Latent Dirichlet Allocation
+title: Notes on Dirichlet Processes
 category: Article
 tags: []
 date: 2015-10-16
