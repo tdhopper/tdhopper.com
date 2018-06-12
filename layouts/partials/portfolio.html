@@ -1,0 +1,23 @@
+<div class="container mb-4" id="featured">
+<h3>Portfolio</h3>
+  <hr>
+  <div class="row">
+  {{ range (where .Data.Pages "Params.portfolio" true )}}
+    <div class="col-lg-4 col-md-6 col-xs-1 mb-2">
+      <div class="card">
+          <a href="{{ .Permalink }}">
+            <img class="card-img-top" src="{{ .Params.thumbnail }}"></a>
+          <div class="card-body">
+              <a href="{{ .Permalink }}">
+                <h4 class="card-title">{{ .Title }}</h4>
+              </a>
+              <p class="card-text small">{{ .Params.description }}</p>
+              <div>
+              	<a class="btn btn-outline-dark btn-sm" href="{{ .Permalink }}">read more</a>
+              </div>
+          </div>
+      </div>
+    </div>
+  {{ end }}
+  </div>
+</div>

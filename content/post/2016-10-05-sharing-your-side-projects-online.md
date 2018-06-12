@@ -4,6 +4,12 @@ category: Article
 date: 2016-10-05
 slug: sharing-your-side-projects-online
 aliases: [/blog/2016/Oct/05/sharing-your-side-projects-online/]
+Thumbnail: projects/sharing.png
+Portfolio: true
+tags:
+ - watch
+ - technical
+youtube_embed: https://www.youtube.com/embed/uRul8QdYvqQ?rel=0
 ---
 
 I gave a talk at Pydata Carolinas 2016 on Sharing Your Side Projects Online. Here's the abstract:
