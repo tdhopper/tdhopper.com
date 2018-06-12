@@ -1,5 +1,5 @@
 ---
-title:  Resume
+title: Timothy D. Hopper
 slug: resume
 description: Resume for Tim Hopper, data scientist and software developer
 date: 2018-01-06
