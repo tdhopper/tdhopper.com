@@ -8,11 +8,11 @@
   },
   "scripts": {
     "build:css": "node-sass --output-style expanded --precision 6 themes/hugo-theme-bootstrap4-blog/source/scss/style.scss themes/hugo-theme-bootstrap4-blog/static/css/style.css.tmp && cleancss --level 1 themes/hugo-theme-bootstrap4-blog/static/css/style.css.tmp -o themes/hugo-theme-bootstrap4-blog/static/css/style.css",
-    "build:js": "cp node_modules/bootstrap/dist/js/bootstrap.min.js themes/hugo-theme-bootstrap4-blog/static/js/bootstrap.min.js && cp node_modules/jquery/dist/jquery.min.js themes/hugo-theme-bootstrap4-blog/static/js/jquery.min.js",
+    "build:js": "cp node_modules/bootstrap/dist/js/bootstrap.min.js themes/hugo-theme-bootstrap4-blog/static/js/bootstrap.min.js && cp node_modules/jquery/jquery.min.js themes/hugo-theme-bootstrap4-blog/static/js/jquery.min.js",
     "build:fonts": "cp node_modules/font-awesome/fonts/* themes/hugo-theme-bootstrap4-blog/static/fonts",
     "build:cookieconsent": "cp node_modules/cookieconsent/build/cookieconsent.min.css themes/hugo-theme-bootstrap4-blog/static/css && cp node_modules/cookieconsent/build/cookieconsent.min.js themes/hugo-theme-bootstrap4-blog/static/js",
     "build:generatesri": "node themes/hugo-theme-bootstrap4-blog/build/sri.js > data/sri.toml",
-    "build": "npm run build:css && npm run build:fonts && npm run build:cookieconsent && npm run clean",
+    "build": "npm run build:css && npm run build:js && npm run build:fonts && npm run build:cookieconsent && npm run clean",
     "clean": "rm -f themes/hugo-theme-bootstrap4-blog/static/css/style.css.tmp",
     "watch": "npm-watch build"
   },
