@@ -6,7 +6,7 @@ slug: scikit
 portfolio: true
 tags:
  - presentation
- - read
+ - watch
  - technical
 description: Talk from the Research Triangle Analysts meetup on Scikit-Learn
 Thumbnail: /projects/scikitlearn.png
