@@ -4,6 +4,11 @@ category: Personal Update
 date: 2015-11-06
 slug: my-first-publication
 aliases: [/blog/2015/Nov/06/my-first-publication/]
+Thumbnail: projects/ecig.png
+Portfolio: true
+tags:
+ - read
+ - technical
 ---
 
 

@@ -4,6 +4,12 @@ date: 2017-10-06
 slug: how-i-became-a-data-scientist-the-talk
 aliases: [/blog/2017/Oct/06/how-i-became-a-data-scientist-the-talk/]
 category: Personal Update
+portfolio: true
+tags:
+ - watch
+ - presentation
+Thumbnail: /projects/how.png
+youtube_embed: https://www.youtube.com/embed/Q_UrZ4pmKmI?rel=0
 Description: Video of talk I gave about my path from studying math in undergrad to being a practicing data scientist.
 ---
 

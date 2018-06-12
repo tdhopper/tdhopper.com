@@ -4,6 +4,11 @@ date: 2017-06-26
 slug: python-plotting-for-exploratory-data-analysis
 aliases: [/blog/2017/Jun/26/python-plotting-for-exploratory-data-analysis/]
 category: Personal Update
+portfolio: true
+tags:
+ - read
+ - technical
+Thumbnail: /projects/pythonplot.png
 Description: A new website providing a rosetta stone for various Python plotting libraries.
 ---
 
