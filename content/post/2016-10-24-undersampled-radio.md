@@ -8,6 +8,7 @@ portfolio: true
 tags:
  - listen
  - technical
+description: An interview from 2016 about my work in data science for cybersecurity.
 Thumbnail: /projects/undersampled_radio.png
 ---
 

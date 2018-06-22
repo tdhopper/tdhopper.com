@@ -1,5 +1,5 @@
 ---
-title: My First Publication
+title: Using Twitter Data to Gain Insights into E-cigarette Marketing and Locations of Use
 category: Personal Update
 date: 2015-11-06
 slug: my-first-publication
@@ -9,8 +9,8 @@ Portfolio: true
 tags:
  - read
  - technical
+description: My paper in the Journal of Internet Medical Research about discussion of electronic cigarettes on Twitter.
 ---
-
 
 When I worked at [RTI International](http://www.rti.org/ "RTI International"), I worked on an exploratory analysis of Twitter discussion of electronic cigarettes. A paper on our work was just published in the [Journal of Internet Medical Research](http://www.jmir.org/ "JMIR-Journal of Medical Internet Research"): [Using Twitter Data to Gain Insights into E-cigarette Marketing and Locations of Use: An Infoveillance Study](http://www.jmir.org/2015/11/e251/).[^Infoveillance]
 
