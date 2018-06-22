@@ -8,7 +8,6 @@ description: Slides from a talk I gave on data science as a career.
 Thumbnail: projects/howiquit.png
 Portfolio: true
 tags:
- - portfolio
  - read
 ---
 
