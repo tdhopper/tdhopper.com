@@ -4,6 +4,7 @@ category: Personal Update
 date: 2016-07-25
 slug: photos-featured-on-smithsonian-magazine
 aliases: [/blog/2016/Jul/25/photos-featured-on-smithsonian-magazine/]
+
 ---
 
 A few weeks ago, I introduced my wife to backpacking in the beautiful [Grayson Highlands State Park](http://www.dcr.virginia.gov/state-parks/grayson-highlands "Grayson Highlands State Park") in southestern Virginia. Part of my reason for picking this location was to see the herd of wild ponies that life at 5000' on the grassy balds.

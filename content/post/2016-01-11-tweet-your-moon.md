@@ -4,6 +4,11 @@ category: Personal Update
 date: 2016-01-11
 slug: tweet-your-moon
 aliases: [/blog/2016/Jan/11/tweet-your-moon/]
+portfolio: true
+tags:
+ - twitter
+description: Twitter account that shows the current phase of the moon via emojis.
+Thumbnail:
 ---
 
 I created [a Twitter account](https://twitter.com/current_moon) that tweets a moon emoji each evening[^evening] representing the current phase of the moon.
