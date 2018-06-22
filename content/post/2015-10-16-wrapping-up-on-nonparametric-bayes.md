@@ -1,5 +1,5 @@
 ---
-title: Notes on Nonparametric Bayes
+title: Nonparametric Latent Dirichlet Allocation
 category: Article
 tags: []
 date: 2015-10-16
