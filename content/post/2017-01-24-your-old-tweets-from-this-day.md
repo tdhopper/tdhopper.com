@@ -4,6 +4,11 @@ category: Personal Update
 date: 2017-01-24
 slug: your-old-tweets-from-this-day
 aliases: [/blog/2017/Jan/24/your-old-tweets-from-this-day/]
+portfolio: true
+description: Twitter bot that shows you your old tweets from this date in previous years.
+tags:
+ - Twitter
+Thumbnail:
 ---
 
 A while ago, I [published a Bash script](https://gist.github.com/tdhopper/fccc4ab00a07cb290f1812d8ac5cc5f3) that will open a Twitter search page to show your old tweets from this day of the year. I have enjoyed using it to [see](https://twitter.com/tdhopper/status/559005293808746497) [what](https://twitter.com/tdhopper/status/426718234461872130) I was [thinking](https://twitter.com/tdhopper/status/691088342499381250) [about](https://twitter.com/tdhopper/status/426702495361269760) in [days](https://twitter.com/tdhopper/status/294300532770738176) [gone](https://twitter.com/tdhopper/status/29641415810088961) by.
