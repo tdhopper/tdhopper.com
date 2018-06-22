@@ -1,3 +1,4 @@
+featured: true
 ---
 title: What's a Stigler Diet?
 date: 2012-01-12
@@ -5,7 +6,7 @@ tags: []
 category: Article
 slug: whats-a-stigler-diet
 aliases: [/blog/2012/Jan/12/whats-a-stigler-diet/]
-description: A look at economist George Stigler's applied optimization problem that this blog is named after.
+description: A look at economist George Stigler's application of mathematical optimization to eating.
 Thumbnail: /uploads/ibm701.jpg
 featured: True
 markup: "mmark"
@@ -25,7 +26,7 @@ Although techniques for solving such optimization problems had not yet been deve
 
 Uncertain of the viability of the algorithm, Danzig used Stigler's diet problem as a test case as a "large-scale" problem[^3diet]. Surprisingly, Stigler's diet was almost optimal, costing only pennies more per year than the very best solution.
 
-In the comments of my last post, Clemson OR professor [Matthew Saltzman](http://www.math.clemson.edu/~mjs/), [pointed ](http://www.tdhopper.com/2012/01/09/carrots-oatmeal-operations-research/#comment-3)to a 1990 article where George Danzig describes trying to build a low-calorie diet that would still leave him filling full. His first linear program prescribed, among other things, 500 gallons of vinegar per day. Eliminating vinegar as an option, it then prescribed 200 bouillon cubes; he noted he wasn't even able to consume one. Limiting the number of bullion cubes, it suggested he eat two pounds of bran. After that, two pounds of molasses. Finally, Danzig's [IBM 701](http://www-03.ibm.com/ibm/history/exhibits/701/701_intro.html) computer was vetoed by another menu generator, Mrs. Danzig, who helped him lose 22 pounds.[ ](http://www-03.ibm.com/ibm/history/exhibits/701/701_intro.html)
+In the comments of my last post, Clemson OR professor [Matthew Saltzman](http://www.math.clemson.edu/~mjs/), pointed me to a 1990 article where George Danzig describes trying to build a low-calorie diet that would still leave him filling full. His first linear program prescribed, among other things, 500 gallons of vinegar per day. Eliminating vinegar as an option, it then prescribed 200 bouillon cubes; he noted he wasn't even able to consume one. Limiting the number of bullion cubes, it suggested he eat two pounds of bran. After that, two pounds of molasses. Finally, Danzig's [IBM 701](http://www-03.ibm.com/ibm/history/exhibits/701/701_intro.html) computer was vetoed by another menu generator, Mrs. Danzig, who helped him lose 22 pounds.[ ](http://www-03.ibm.com/ibm/history/exhibits/701/701_intro.html)
 
 [^1diet]: Quote from paper by [Garille and Gass](http://www.jstor.org/pss/222950)
 
