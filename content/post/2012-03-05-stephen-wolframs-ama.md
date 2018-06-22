@@ -1,5 +1,5 @@
 ---
-title: Stephen Wolfram&#039;s AMA
+title: Stephen Wolfram's AMA
 category: Article
 date: 2012-03-05
 Author: Tim
