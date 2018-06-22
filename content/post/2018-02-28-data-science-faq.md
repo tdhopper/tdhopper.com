@@ -7,6 +7,8 @@ aliases: [/faq/]
 date: 2018-03-05
 description: Answers to some questions I've gotten on how to become a data scientist.
 draft: false
+featured: true
+Thumbnail: /uploads/gibbs.png
 ---
 
 
