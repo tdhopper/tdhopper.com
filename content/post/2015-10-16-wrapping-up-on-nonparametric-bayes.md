@@ -15,6 +15,6 @@ tags:
 
 Today is my last day at [Qadium](http://qadium.com). Next week, I am joining the data science team at [Distil Networks](http://distilnetworks.com).
 
-I've been privileged to work with [Eric Jonas](http://ericjonas.com/) on the [data microscopes](http://datamicroscopes.github.io) project for the past 8 months. In particular, I contributed the implementation of [nonparametric latent Dirichlet allocation](https://github.com/datamicroscopes/lda).
+I've been privileged to work with [Eric Jonas](http://ericjonas.com/) on the [data microscopes](http://datamicroscopes.github.io) project for the past 8 months. In particular, I contributed the implementation of [Nonparametric Latent Dirichlet Allocation](https://github.com/datamicroscopes/lda).
 
 I published a collection of notes on nonparametric Bayesian methods and Latent Dirichlet Allocation at [dp.tdhopper.com](https://dp.tdhopper.com). I hope this will be useful to other students and researchers of these methods.
