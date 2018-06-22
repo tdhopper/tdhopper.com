@@ -9,6 +9,7 @@ tags:
  - read
  - technical
 Thumbnail: /projects/profile_in_comp.png
+description: A 2015 interview with me on my wandering road to data science and my love of remote work.
 ---
 
 I recently had the honor of being interviewed by [Michael Swenson](http://computationalimagination.com) for his interview series called "Profiles in Computational Imagination". I talked a bit about my current work, my wandering road to data science, and my love for remote work. You can [read it here](http://computationalimagination.com/interview_tim_hopper.php).

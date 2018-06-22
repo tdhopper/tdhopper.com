@@ -5,6 +5,7 @@ date: 2016-04-29
 slug: backpacking-for-the-very-tall
 aliases: [/blog/2016/Apr/29/backpacking-for-the-very-tall/]
 portfolio: true
+description: My notes on ultralight backpacking as a very tall man in a world where gear is designed for average sized folks.
 tags:
  - read
 Thumbnail: /projects/backpacking.png

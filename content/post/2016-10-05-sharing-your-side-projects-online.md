@@ -9,6 +9,7 @@ Portfolio: true
 tags:
  - watch
  - technical
+description: Presentation on how data scientists (and aspiring ones) should actively share about their side projects on the internet.
 youtube_embed: https://www.youtube.com/embed/uRul8QdYvqQ?rel=0
 ---
 

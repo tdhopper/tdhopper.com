@@ -7,6 +7,7 @@ portfolio: true
 tags:
  - listen
  - technical
+description: Roundtable on the Adversarial Learning podcast about bad intervew experiences.
 Thumbnail: /projects/adversariall.png
 category: Personal Update
 ---
