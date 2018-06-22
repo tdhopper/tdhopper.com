@@ -2,6 +2,23 @@
 <h3>My projects, talks, and interviews</h3>
   <hr>
   <div class="row">
+    <div id="filter-works">
+      <ul>
+        <li class="active scrollimation fade-right d1">
+          <a href="#" data-filter="*">All</a>
+        </li>
+
+        {{ range .Site.Params.EXTERNAL_TAGS }}
+        <li class="scrollimation fade-right">
+          <a href="#" data-filter=".{{ . | lower }}">{{ . | upper }}</a>
+        </li>
+        {{ end }}
+
+      </ul>
+    </div>
+
+  </div>
+  <div class="row">
   {{ range (where .Data.Pages "Params.portfolio" true )}}
     <div class="col-lg-4 col-md-6 col-xs-1 mb-2">
       <div class="card">

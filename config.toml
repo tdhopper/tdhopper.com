@@ -22,6 +22,8 @@ baseName = "feeds/all.atom"
   page = "/:slug/"
 
 [params]
+  EXTERNAL_TAGS = [ "read", "watch", "listen", "presentation", "technical" ]
+
   # Site author
   author = "Tim Hopper"
   long_title=  "Tim Hopper | machine learning engineering, photography, math jokes"
