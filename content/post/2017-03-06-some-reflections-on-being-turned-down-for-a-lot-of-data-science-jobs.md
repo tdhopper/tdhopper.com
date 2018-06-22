@@ -4,6 +4,7 @@ category: Article
 date: 2017-03-06
 slug: some-reflections-on-being-turned-down-for-a-lot-of-data-science-jobs
 aliases: [/blog/2017/Mar/06/some-reflections-on-being-turned-down-for-a-lot-of-data-science-jobs/]
+featured: True
 description: In the last five years, I've clearly interviewed for a lot of data science jobs, and I've also been turned down for a lot of data science job. I've spent a good bit of time reflecting on why I wasn't offered this job or that. Several folks have asked me if I had any advice to share on the experience, and I hope to offer that here.
 ---
 
