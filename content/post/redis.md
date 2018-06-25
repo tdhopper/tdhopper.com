@@ -1,7 +1,7 @@
 ---
 title: Pickle and Redis
 category: Personal Update
-date:
+date: 2012-10-22
 slug: pickle-and-redis
 portfolio: true
 tags:
