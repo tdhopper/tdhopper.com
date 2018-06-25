@@ -1,26 +1,15 @@
 <div class="container mb-4" id="featured">
 <h3>My projects, talks, and interviews</h3>
   <hr>
-  <div class="row">
-    <div id="filter-works">
-      <ul>
-        <li class="active scrollimation fade-right d1">
-          <a href="#" data-filter="*">All</a>
-        </li>
-
-        {{ range .Site.Params.EXTERNAL_TAGS }}
-        <li class="scrollimation fade-right">
-          <a href="#" data-filter=".{{ . | lower }}">{{ . | upper }}</a>
-        </li>
-        {{ end }}
-
-      </ul>
-    </div>
-
+  <div class="row btn-group">
+    <button class="btn btn-outline-primary btn-sm active" id="all">All</button>
+    {{ range .Site.Params.EXTERNAL_TAGS }}
+    <button class="btn btn-outline-primary" id="{{ . | lower }}">{{ . | upper }}</button>
+    {{ end }}
   </div>
-  <div class="row">
+  <div class="row" id="portfolio-grid">
   {{ range (where .Data.Pages "Params.portfolio" true )}}
-    <div class="col-lg-4 col-md-6 col-xs-1 mb-2">
+    <div class="col-lg-4 col-md-6 col-xs-1 mb-2 {{ range .Params.Tags }}{{ . | lower }} {{ end }}">
       <div class="card">
           <a href="{{ .Permalink }}">
             <img class="card-img-top" src="{{ .Params.thumbnail }}"></a>
