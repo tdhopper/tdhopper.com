@@ -8,10 +8,9 @@ Thumbnail: projects/sharing.png
 Portfolio: true
 tags:
  - watch
- - technical
  - presentation
 description: Presentation on how data scientists (and aspiring ones) should actively share about their side projects on the internet.
-youtube_embed: https://www.youtube.com/embed/uRul8QdYvqQ?rel=0
+youtube: uRul8QdYvqQ
 ---
 
 I gave a talk at Pydata Carolinas 2016 on Sharing Your Side Projects Online. Here's the abstract:

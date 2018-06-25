@@ -8,7 +8,9 @@ portfolio: true
 tags:
  - twitter
 description: Twitter account that shows the current phase of the moon via emojis.
-Thumbnail:
+Thumbnail: /projects/moon.jpg
+external: https://twitter.com/current_moon
+
 ---
 
 I created [a Twitter account](https://twitter.com/current_moon) that tweets a moon emoji each evening[^evening] representing the current phase of the moon.

@@ -6,10 +6,10 @@ aliases: ["/blog/2017/May/22/adversarial-learning:-stories-of-degradation-and-hu
 portfolio: true
 tags:
  - listen
- - technical
 description: Roundtable on the Adversarial Learning podcast about bad intervew experiences.
-Thumbnail: /projects/adversariall.png
+Thumbnail: /projects/al10.png
 category: Personal Update
+external: http://adversariallearning.com/episode-10-stories-of-degradation-and-humiliation.html
 ---
 
 My friends [Andrew](http"//www.twitter.com/akm) and [Joel](http://www.twitter.com/joelgrus) were kind enough to have me back on their podcast [Adversarial Learning](http://adversariallearning.com/episode-10-stories-of-degradation-and-humiliation.html). We shared our tales of bad data science interviews. Enjoy!
