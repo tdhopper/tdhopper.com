@@ -4,7 +4,7 @@ category: Personal Update
 date: 2016-10-25
 slug: understanding-probabilistic-topic-models-by-simulation
 aliases: [/blog/2016/Oct/25/understanding-probabilistic-topic-models-by-simulation/]
-youtube_embed: https://www.youtube.com/embed/Wy-XhT2sHgM?rel=0
+youtube: Wy-XhT2sHgM
 Thumbnail: projects/simulation.png
 Portfolio: true
 tags:

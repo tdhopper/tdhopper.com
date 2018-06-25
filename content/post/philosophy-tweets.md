@@ -7,7 +7,8 @@ portfolio: true
 tags:
  - twitter
 description: Twitter account that shares random articles from the Stanford Encyclopedia of Philosophy
-Thumbnail:
+Thumbnail: /projects/sep.png
+external: https://twitter.com/sep_articles
 ---
 
 I enjoy the [Stanford Encyclopedia of Philosophy](), so I created a [Twitter account]() that tweets links to random articles from it.
