@@ -1,7 +1,7 @@
 ---
 title: Introduction to PySpark
 category: Personal Update
-date:
+date: 2015-02-28
 slug: intro-to-pyspark
 portfolio: true
 tags:
