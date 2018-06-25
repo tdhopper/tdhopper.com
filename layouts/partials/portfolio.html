@@ -3,7 +3,7 @@
   <hr>
   <div class="row mb-2">
     <div class="col-12 btn-group d-flex justify-content-center">
-      <button class="btn btn-outline-secondary btn-sm active" id="all">All</button>
+      <button class="btn btn-outline-secondary btn-sm active" id="all">ALL</button>
       {{ range .Site.Params.EXTERNAL_TAGS }}
       <button class="btn btn-outline-secondary btn-sm" id="{{ . | lower }}">{{ . | upper }}</button>
       {{ end }}
