@@ -1087,7 +1087,7 @@ You may encounter build failures or other breakages.
 <li>To run the <a href="http://docs.ansible.com/ansible/ping_module.html"><code>ping</code> module</a> (<code>-m</code>) to test the connection.</li>
 <li>To run the command on <code>all</code> hosts in the inventory (in this case, our inventory is just the <code>localhost</code>).</li>
 </ul>
-<p><a href="http://www.mechanicalfish.net/start-learning-ansible-with-one-line-and-no-files/">Michael Booth</a> has a <a href="http://www.mechanicalfish.net/start-learning-ansible-with-one-line-and-no-files/">post</a> that goes into more detail about this command.</p>
+<p><a href="https://web.archive.org/web/20170330023127/http://www.mechanicalfish.net/start-learning-ansible-with-one-line-and-no-files/">Michael Booth</a> has a <a href="https://web.archive.org/web/20170330023127/http://www.mechanicalfish.net/start-learning-ansible-with-one-line-and-no-files/">post</a> that goes into more detail about this command.</p>
 <p>Behind the scenes, Ansible is turning this <code>-m ping</code> command into shell commands. (Try running with the <code>-vvv</code> flag to see what's happening behind the scenes.) It can also execute arbitrary commands; by default, it'll use the Bourne shell <code>sh</code>.</p>
 </div>
 </div>
