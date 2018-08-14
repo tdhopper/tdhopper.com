@@ -53,7 +53,7 @@ $(document).ready(function () {
         if (this.id == 'all') {
             $('#portfolio-grid > div').fadeIn(450);
         } else {
-            var $el = $('.' + this.id).fadeIn(450);
+            var $el = $('#portfolio .' + this.id).fadeIn(450);
             $('#portfolio-grid > div').not($el).fadeOut(250);
         }
         $btns.removeClass('active');
