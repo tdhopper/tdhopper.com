@@ -46,14 +46,14 @@ $(document).ready(function () {
     //     waypointsRefresh();
     // });
 
-    var $btns = $('.btn').click(function (e) {
+    var $btns = $('#portfolio .btn').click(function (e) {
         e.preventDefault();
         $(this).addClass('active');
         $('.btn').not(this).removeClass('active');
         if (this.id == 'all') {
             $('#portfolio-grid > div').fadeIn(450);
         } else {
-            var $el = $('#portfolio .' + this.id).fadeIn(450);
+            var $el = $('.' + this.id).fadeIn(450);
             $('#portfolio-grid > div').not($el).fadeOut(250);
         }
         $btns.removeClass('active');
