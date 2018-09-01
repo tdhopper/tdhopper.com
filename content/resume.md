@@ -14,7 +14,7 @@ date: 2018-01-06
 * Research and develop machine learning techniques for malware detection.
 
 #### [Distil Networks](http://www.distilnetworks.com/), *Raleigh, NC*
-##### Data Scientist (October 2015 – present)
+##### Data Scientist (October 2015 – November 2017)
 
 * Research and develop machine learning techniques for detection of malicious web bots
 * Lead research for validation of JavaScript-based client fingerprinting technique
