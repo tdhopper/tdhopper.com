@@ -9,7 +9,7 @@ description: My notes on ultralight backpacking as a very tall man in a world wh
 tags:
  - read
 Thumbnail: /projects/backpacking.png
-external: http://www.ultratall-ultralight.com
+external: https://backpacking.tdhopper.com
 ---
 
-I created a single page website to collect notes on one of my other hobbies: [ultralight backpacking](http://www.ultratall-ultralight.com/). In particular, notes on ultralight gear for the very tall.
+I created a single page website to collect notes on one of my other hobbies: [ultralight backpacking](https://backpacking.tdhopper.com/). In particular, notes on ultralight gear for the very tall.
