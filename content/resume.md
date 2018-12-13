@@ -9,7 +9,7 @@ date: 2018-01-06
 
 
 #### [Cylance Inc](http://www.cylance.com/), *Raleigh, NC*
-##### Data Scientist (November 2017  – )
+##### Senior Data Scientist (November 2017  – )
 
 * Research and develop machine learning techniques for malware detection.
 
