@@ -2,7 +2,7 @@
 title: Timothy D. Hopper
 slug: resume
 description: Resume for Tim Hopper, data scientist and software developer
-date: 2018-01-06
+date: 2019-01-29
 ---
 
 ### Experience
@@ -11,15 +11,21 @@ date: 2018-01-06
 #### [Cylance Inc](http://www.cylance.com/), *Raleigh, NC*
 ##### Senior Data Scientist (November 2017  – )
 
-* Research and develop machine learning techniques for malware detection.
+* Research and develop machine learning techniques for dynamic detection of malware
+* Train data scientist on software engineering practices with Python
+* Develop and maintained Python packages for data ingestion, cleaning, and standardization
+* Lead team in integrating best practices for Python development and software testing
+
 
 #### [Distil Networks](http://www.distilnetworks.com/), *Raleigh, NC*
 ##### Data Scientist (October 2015 – November 2017)
 
-* Research and develop machine learning techniques for detection of malicious web bots
+* Researched and developed of machine learning techniques for detection of malicious web bots
 * Lead research for validation of JavaScript-based client fingerprinting technique
-* Construct hierarchical Bayesian models for analysis of internet user behavior
+* Constructed hierarchical Bayesian models for analysis of internet user behavior
 * Primary developer of real-time identification platform for malicious web bots on Apache Storm
+* Developed Python-based internal tools for fast querying of data warehouse
+* Introduced team to best practices in Python development and data analysis
 
 #### [Qadium](https://qadium.com/), *Raleigh, NC*
 ##### Data Scientist (February 2015 – October 2015)
@@ -78,6 +84,6 @@ nonlinear mixed effect modeling, and text-mining-based crime forecasting softwar
 * **Programming Languages (high proficiency):** Python
 * **Programming Languages (intermediate proficiency):** C++, C#, Mathematica, R, SQL
 * **Programming Languages (some proficiency):** Java, Javascript, Matlab, C
-* **Data Processing Tools:** Apache Storm/streamparse, (Py)spark, Pandas, Scikit-learn, Impala, Hive
+* **Data Processing Tools:** Apache Storm/streamparse, (Py)spark, Pandas, Scikit-learn, Impala, Hive, Dask
 * **Data Stores:** Elasticsearch, Cassandra, MongoDB, Redis, MySQL
 
