@@ -20,7 +20,7 @@ date: 2019-01-29
 #### [Distil Networks](http://www.distilnetworks.com/), *Raleigh, NC*
 ##### Data Scientist (October 2015 – November 2017)
 
-* Researched and developed of machine learning techniques for detection of malicious web bots
+* Researched and developed machine learning techniques for detection of malicious web bots
 * Lead research for validation of JavaScript-based client fingerprinting technique
 * Constructed hierarchical Bayesian models for analysis of internet user behavior
 * Primary developer of real-time identification platform for malicious web bots on Apache Storm
