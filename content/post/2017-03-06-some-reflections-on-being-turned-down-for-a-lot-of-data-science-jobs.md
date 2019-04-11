@@ -7,6 +7,7 @@ aliases: [/blog/2017/Mar/06/some-reflections-on-being-turned-down-for-a-lot-of-d
 featured: True
 description: I've interviewed for a lot of data science jobs, and I've also been turned down for a lot of data science job. These are my reflections.
 Thumbnail: /uploads/rejected.jpg
+images: [/uploads/rejected_large.jpg]
 
 ---
 
