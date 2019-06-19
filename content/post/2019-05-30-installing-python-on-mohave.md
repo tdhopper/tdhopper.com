@@ -25,7 +25,7 @@ brew install sqlite3
 brew install zlib
 
 export LDFLAGS="-L/usr/local/opt/zlib/lib -L/usr/local/opt/sqlite/lib"
-export CPPFLAGS=  "-I/usr/local/opt/zlib/include -I/usr/local/opt/sqlite/include"
+export CPPFLAGS="-I/usr/local/opt/zlib/include -I/usr/local/opt/sqlite/include"
 pyenv install 3.7.0
 ```
 
