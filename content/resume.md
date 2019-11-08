@@ -11,9 +11,9 @@ date: 2019-01-29
 #### [Cylance Inc](http://www.cylance.com/), *Raleigh, NC*
 ##### Senior Data Scientist (November 2017  – )
 
+* Lead development of data lake and feature store using serverless AWS infrastructure
 * Research and develop machine learning techniques for dynamic detection of malware
-* Train data scientist on software engineering practices with Python
-* Develop and maintained Python packages for data ingestion, cleaning, and standardization
+* Develop and maintain Python packages for data ingestion, cleaning, and standardization
 * Lead team in integrating best practices for Python development and software testing
 
 
@@ -71,6 +71,7 @@ nonlinear mixed effect modeling, and text-mining-based crime forecasting softwar
 
 ### Open Source Contributions
 
+* [cpython](https://github.com/python/cpython/commits?author=tdhopper)
 * [datamicroscopes](https://datamicroscopes.github.io/)
 * [pythonplot.com](https://github.com/tdhopper/pythonplot.com)
 * [Streamparse](https://github.com/parsely/streamparse/commits?author=tdhopper)
