@@ -9,7 +9,7 @@ date: 2016-04-29
 If you want to check whether a Python string is an integer, you can try casting to an int with `int()` and catching the `ValueError` if it's not an integer:
 
 ```python
-def is_integer(value: int, *, base: int=10) -> bool:
+def is_integer(value: str, *, base: int=10) -> bool:
     try:
         int(value, base=base)
         return True
