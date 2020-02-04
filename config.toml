@@ -8,6 +8,10 @@ copyright = "2017 Tim Hopper"
 googleAnalytics = "UA-43428740-1"
 #disqusShortname = "XYW"
 
+pygmentsCodefences = true
+pygmentsCodefencesGuessSyntax = true
+pygmentsStyle = "monokai"
+
 [outputFormats]
 [outputFormats.RSS]
 mediatype = "application/rss"
