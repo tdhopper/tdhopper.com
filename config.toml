@@ -10,7 +10,7 @@ googleAnalytics = "UA-43428740-1"
 
 pygmentsCodefences = true
 pygmentsCodefencesGuessSyntax = true
-pygmentsStyle = "monokai"
+pygmentsStyle = "github"
 
 [outputFormats]
 [outputFormats.RSS]
