@@ -71,9 +71,9 @@ nonlinear mixed effect modeling, and text-mining-based crime forecasting softwar
 
 ### Projects
 
-#### [pythonplot.com](https://pythonplot.com) -- A Rosetta Stone of Python plotting libraries for exploratory data analysis
+[pythonplot.com](https://pythonplot.com) -- A Rosetta Stone of Python plotting libraries for exploratory data analysis
 
-#### [Notes on Dirichlet Processes](https://dp.tdhopper.com) -- Derivations, code, and notes on dirichlet processes for nonparametric Bayesian methods.
+[Notes on Dirichlet Processes](https://dp.tdhopper.com) -- Derivations, code, and notes on dirichlet processes for nonparametric Bayesian methods.
 
 ### Open Source Contributions
 
