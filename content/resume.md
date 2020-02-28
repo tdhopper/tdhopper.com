@@ -8,13 +8,13 @@ date: 2019-01-29
 ### Experience
 
 
-#### [Cylance Inc](http://www.cylance.com/), *Raleigh, NC*
+#### [Blackberry | Cylance](http://www.cylance.com/), *Raleigh, NC*
 ##### Senior Data Scientist (November 2017  – )
 
 * Lead development of data lake and feature store using serverless AWS infrastructure
-* Research and develop machine learning techniques for dynamic detection of malware
 * Develop and maintain Python packages for data ingestion, cleaning, and standardization
 * Lead team in integrating best practices for Python development and software testing
+* Research machine learning techniques for dynamic detection of malware
 
 
 #### [Distil Networks](http://www.distilnetworks.com/), *Raleigh, NC*
@@ -69,22 +69,20 @@ nonlinear mixed effect modeling, and text-mining-based crime forecasting softwar
 - Minor in Applied Physics; Minor in Computer Science
 - Awards: Graduated Summa Cum Laude, Dean's List with High Distinction, Presidential Scholarship
 
+### Projects
+
+#### [pythonplot.com](https://pythonplot.com) -- A Rosetta Stone of Python plotting libraries for exploratory data analysis
+
+#### [Notes on Dirichlet Processes](https://dp.tdhopper.com) -- Derivations, code, and notes on dirichlet processes for nonparametric Bayesian methods.
+
 ### Open Source Contributions
 
-* [cpython](https://github.com/python/cpython/commits?author=tdhopper)
-* [datamicroscopes](https://datamicroscopes.github.io/)
-* [pythonplot.com](https://github.com/tdhopper/pythonplot.com)
-* [Streamparse](https://github.com/parsely/streamparse/commits?author=tdhopper)
-* [Conda](https://github.com/conda/conda/commits?author=tdhopper)
-* [Impyla](https://github.com/cloudera/impyla/commits?author=tdhopper)
-* [lda](https://github.com/ariddell/lda/commits?author=tdhopper)
-* [Pandas](https://github.com/pandas-dev/pandas/commits?author=tdhopper)
+[cpython](https://github.com/python/cpython/commits?author=tdhopper) · [datamicroscopes](https://datamicroscopes.github.io/) · [Streamparse](https://github.com/parsely/streamparse/commits?author=tdhopper) · [Conda](https://github.com/conda/conda/commits?author=tdhopper) · [Impyla](https://github.com/cloudera/impyla/commits?author=tdhopper) · [lda](https://github.com/ariddell/lda/commits?author=tdhopper) · [Pandas](https://github.com/pandas-dev/pandas/commits?author=tdhopper)
 
 ### Tool Experience and Skills
 
 * **Programming Languages (high proficiency):** Python
-* **Programming Languages (intermediate proficiency):** C++, C#, Mathematica, R, SQL
-* **Programming Languages (some proficiency):** Java, Javascript, Matlab, C
-* **Data Processing Tools:** Apache Storm/streamparse, (Py)spark, Pandas, Scikit-learn, Impala, Hive, Dask
-* **Data Stores:** Elasticsearch, Cassandra, MongoDB, Redis, MySQL
+* **Programming Languages (some proficiency):** C++, C#, Mathematica, R, SQL, Java, Javascript
+* **Data Processing Tools:** Amazon Web Services (Batch, Lambda, ECS, S3, SQS), Apache Storm/streamparse, Spark/Pyspark, Pandas, Scikit-learn, Impala, Hive, Dask
+* **Data Stores:** Postgres, Elasticsearch, Cassandra, MongoDB, Redis, MySQL
 
